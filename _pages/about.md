@@ -19,7 +19,29 @@ Now I am an undergraduate from Shanghai Jiao Tong University.
 
 # 👨‍💻 Undergraduate Works
 
-- 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI-SJTU</div><img src='images/aisjtu.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Website For Courses of AI Pilot Class, SJTU](https://aisjtu.icu)
+
+Founder: **Haoyu Zhen**
+
+[**Project**](https://github.com/aisjtu/aisjtu.github.io)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI2611 Project</div><img src='images/geff.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GEFF: Gaze Estimation with the Fused Features](https://anyezhy.github.io/pdf/geff.pdf)
+
+**Haoyu Zhen**, Yilin Sun
+
+[**Project**](https://github.com/anyeZHY/GEFF)
+- Transfer [PIXIE](https://github.com/YadiraF/PIXIE) [CVPR 2021] model from 3D human body reconstruction to gaze estimation. Now the features of the head fuse with that of the eyes (we call our model GEFF).
+- Implement [SimCLR](https://github.com/google-research/simclr) [ICML 2020] framework for training deep and complicated networks (Currently the SimCLR framework was adapted for GEFF).
+</div>
+</div>
 
 # 🎖 Honors and Awards
 
