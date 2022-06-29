@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Now I am an undergraduate from Shanghai Jiao Tong University.
+I am an undergraduate at Shanghai Jiao Tong University, majoring in Artificial Intelligence.
 
 # 🔥 News
 
@@ -24,9 +24,9 @@ Now I am an undergraduate from Shanghai Jiao Tong University.
 
 [A Website For Courses of AI Pilot Class, SJTU](https://aisjtu.icu)
 
-Founder: **Haoyu Zhen**
+Founder and Primary Contributor: **Haoyu Zhen**
 
-[**Project**](https://github.com/aisjtu/aisjtu.github.io)
+[**Project Source Code**](https://github.com/aisjtu/aisjtu.github.io)
 </div>
 </div>
 
@@ -37,8 +37,9 @@ Founder: **Haoyu Zhen**
 
 **Haoyu Zhen**, Yilin Sun
 
-[**Project**](https://github.com/anyeZHY/GEFF)
-- Transfer [PIXIE](https://github.com/YadiraF/PIXIE) [CVPR 2021] model from 3D human body reconstruction to gaze estimation. Now the features of the head fuse with that of the eyes (we call our model GEFF).
+[**Project**](https://github.com/anyeZHY/GEFF) (Also the honor code)
+
+- Transfer [PIXIE](https://github.com/YadiraF/PIXIE) [3DV 2021] model from 3D human body reconstruction to gaze estimation. Now the features of the head fuse with that of the eyes (we call our model GEFF).
 - Implement [SimCLR](https://github.com/google-research/simclr) [ICML 2020] framework for training deep and complicated networks (Currently the SimCLR framework was adapted for GEFF).
 </div>
 </div>
@@ -49,5 +50,11 @@ Founder: **Haoyu Zhen**
 - *2019.10* The first prize of CPHO semi-finals, Beijing Division (Rank: 17, top 1%).
 
 # 📖 Educations
+
 - *2020.09 - (now)*, Undergraduate, Artificial Intelligence, Shanghai Jiao Tong University. (GPA: 92.02/100. Rank: 4/92).
 - *2014.09 - 2020.06*, Class of Physics Olympiad, [Beijing National Day School](http://www.bndsedu.com).
+
+# 🍫 Life
+
+- Sports. I play for the badminton team of SEIEE and the SJTU frisbee team. I also love playing baseball, table tennis, football and basketball.
+- Movies and TV series. I am a fandom of DC movies, Rick & Morty, Breaking Bad and Better Call Saul.
