@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate at Shanghai Jiao Tong University, majoring in Artificial Intelligence.
+I am an undergraduate at Shanghai Jiao Tong University, majoring in Artificial Intelligence. Currently, I work as an undergraduate researcher in Machine Vision and Intelligence Group (**MVIG**), under the guidance of Prof. [**Cewu Lu**](https://www.mvig.org/), Ph.D. [**Lixin Yang**](https://lixiny.github.io/) and Ph.D. [**Kailin Li**](https://kailinli.top).
 
 # 🔥 News
 
@@ -26,7 +26,7 @@ I am an undergraduate at Shanghai Jiao Tong University, majoring in Artificial I
 
 Founder and Primary Contributor: **Haoyu Zhen**
 
-[**Project Source Code**](https://github.com/aisjtu/aisjtu.github.io)
+[**Project Source Code**](https://github.com/aisjtu/aisjtu.github.io)｜[![](https://img.shields.io/github/stars/aisjtu/aisjtu.github.io?style=social&label=Stars)](https://github.com/aisjtu/aisjtu.github.io)
 </div>
 </div>
 
@@ -47,14 +47,53 @@ Founder and Primary Contributor: **Haoyu Zhen**
 # 🎖 Honors and Awards
 
 - *2021.11* Huawei "Smart Base" Scholarship.
-- *2019.10* The first prize of CPHO semi-finals, Beijing Division (Rank: 17, top 1%).
+- *2021.11* Academic Excellence Scholarship of SJTU (top 10%).
+- *2019.10* The first prize of the 36th CPHO semi-finals, Beijing Division (Rank: 17, top 1%).
 
 # 📖 Educations
 
-- *2020.09 - (now)*, Undergraduate, Artificial Intelligence, Shanghai Jiao Tong University. (GPA: 92.02/100. Rank: 4/92).
+- *2020.09 - (now)*, Undergraduate, Artificial Intelligence, Shanghai Jiao Tong University. (GPA: 92.71/100. Rank: 4/92).
+
+  <details open="open" style='padding: 10px; border-radius:5px 30px 30px 5px; border-width: 1px;'>
+    <summary>Detailed Academic Performance
+      <a href="https://github.com/anyeZHY/SJTU-Course-Stack">
+        [Implementation and Lecture Notes]
+      </a>
+    </summary>
+    <ul>
+      <li>
+        Saphomore year: GPA:94.00/100. Rank 2/92.
+      </li>
+      <li>
+        PHY1251 University Physics: 100/100
+      </li>
+      <li>
+        AI1602 Artificial Intelligence Problem Solving and Practice: 99.61/100
+      </li>
+      <li>
+  			AI2612 Machine Learning: 99/100
+      </li>
+      <li>
+  			AI2619 Digital signal and image processing: 99/100
+      </li>
+      <li>
+  			AI2615 Design and Analysis of Algorithms: 98/100
+      </li>
+      <li>
+  			CS2601 Linear and Convex Optimization: 98/100
+      </li>
+      <li>
+  			MATH1204 Mathematical Analysis: 97/100
+      </li>
+      <li>
+  			......
+      </li>
+    </ul>
+  </details>
+
 - *2014.09 - 2020.06*, Class of Physics Olympiad, [Beijing National Day School](http://www.bndsedu.com).
 
 # 🍫 Life
 
-- Sports. I play for the badminton team of SEIEE and the SJTU frisbee team. I also love playing baseball, table tennis, football and basketball.
+- Sports. I play for the **badminton** team of SEIEE and the SJTU **frisbee** team. I also love playing **baseball**, **table tennis**, **football** and **basketball**.
 - Movies and TV series. I am a fandom of DC movies, Rick & Morty, Breaking Bad and Better Call Saul.
