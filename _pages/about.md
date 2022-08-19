@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate at Shanghai Jiao Tong University, majoring in Artificial Intelligence. Currently, I work as an undergraduate researcher in Machine Vision and Intelligence Group (**MVIG**), under the guidance of Prof. [**Cewu Lu**](https://www.mvig.org/), Ph.D. [**Lixin Yang**](https://lixiny.github.io/) and Ph.D. [**Kailin Li**](https://kailinli.top).
+I am an undergraduate at Shanghai Jiao Tong University, majoring in Artificial Intelligence. Currently, I work as an intern in Machine Vision and Intelligence Group (**MVIG**), under the guidance of Prof. [**Cewu Lu**](https://www.mvig.org/), Ph.D. [**Lixin Yang**](https://lixiny.github.io/) and Ph.D. [**Kailin Li**](https://kailinli.top).
 
 # 🔥 News
 
