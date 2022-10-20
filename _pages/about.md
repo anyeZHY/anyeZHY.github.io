@@ -101,7 +101,7 @@ Founder and Primary Contributor: **Haoyu Zhen**
     <b>
       <div class="tooltip">badminton team of SEIEE
         <span class="tooltiptext">
-          <img src='images/badminton.jpg' alt='sym' />
+          <img src='images/badminton.JPG' alt='sym' />
         </span>
       </div>
     </b>
@@ -122,7 +122,7 @@ Founder and Primary Contributor: **Haoyu Zhen**
     <b>
       <div class="tooltip">Build LEGO Paris city
         <span class="tooltiptext">
-          <img src='images/paris.jpg' alt='sym' />
+          <img src='images/paris.JPG' alt='sym' />
         </span>
       </div>
     </b>
