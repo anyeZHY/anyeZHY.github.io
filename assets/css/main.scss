@@ -118,7 +118,7 @@ h1:before, .anchor:before {
     display: none;
 }
 
-@media screen and (min-width: 768px){
+@media screen and (min-width: 850px){
     .tooltip .tooltiptext {
         visibility: hidden;
         width: 240px;
@@ -132,7 +132,7 @@ h1:before, .anchor:before {
     }
 }
 
-@media screen and (min-width: 600px){
+@media screen and (min-width: 850px){
     .tooltip:hover .tooltiptext {
         visibility: visible;
     }
