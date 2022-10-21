@@ -98,34 +98,40 @@ Founder and Primary Contributor: **Haoyu Zhen**
 <ul>
   <li>
     Sports. I play for the 
-    <b>
-      <div class="tooltip">badminton team of SEIEE
-        <span class="tooltiptext">
-          <img src='images/badminton.JPG' alt='sym' />
-        </span>
-      </div>
-    </b>
+    <grow>
+    	<b>
+      	<div class='tooltip'>badminton team of SEIEE
+       	 <span class='tooltiptext'>
+       	   <img src='images/badminton.JPG' alt='sym' />
+       	 </span>
+      	</div>
+    	</b>
+    </grow>
     and the 
-    <b>
-      <div class="tooltip">SJTU frisbee team.
-        <span class="tooltiptext">
-          <img src='images/frisbee.jpg' alt='sym' />
-        </span>
-      </div>
-    </b>
+    <grow>
+      <b>
+        <div class='tooltip'>SJTU frisbee team.
+          <span class='tooltiptext'>
+            <img src='images/frisbee.jpg' alt='sym' />
+          </span>
+        </div>
+      </b>
+    </grow>
     I also love playing baseball, table tennis, football and basketball.
   </li>
   <li>
     Movies and TV series. I am a fandom of DC movies, Rick & Morty, Breaking Bad and Better Call Saul.
   </li>
   <li>
-    <b>
-      <div class="tooltip">Build LEGO Paris city
-        <span class="tooltiptext">
-          <img src='images/paris.JPG' alt='sym' />
-        </span>
-      </div>
-    </b>
+    <grow>
+    	<b>
+      	<div class='tooltip'>Build LEGO Paris city
+       	 <span class='tooltiptext'>
+       	   <img src='images/paris.JPG' alt='sym' />
+       	 </span>
+      	</div>
+    	</b>
+    </grow>
     ✨
   </li>
 </ul>
