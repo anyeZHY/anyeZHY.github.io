@@ -136,6 +136,6 @@ Founder and Primary Contributor: **Haoyu Zhen**
   </li>
 </ul>
 ---
-<div class="center">
+<center>
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?w=250&d=bf1dAkPMHwMjz7l6SO9Kwfw6KGOSR6zdKM549HBCScM"></script>
-</div>
+</center>
