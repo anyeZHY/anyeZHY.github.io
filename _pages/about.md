@@ -52,7 +52,7 @@ Founder and Primary Contributor: **Haoyu Zhen**
 
 # 📖 Educations
 
-- *2020.09 - (now)*, Undergraduate, Artificial Intelligence, Shanghai Jiao Tong University. (GPA: 92.71/100. Rank: 4/92).
+- *2020.09 - (now)*, Undergraduate, Artificial Intelligence, Shanghai Jiao Tong University. GPA: 92.75/100, 4.011/4.3 (Rank: 4/89).
 
   <details open="open" style='padding: 10px; border-radius:5px 30px 30px 5px; border-width: 1px;'>
     <summary>Detailed Academic Performance
@@ -62,7 +62,10 @@ Founder and Primary Contributor: **Haoyu Zhen**
     </summary>
     <ul>
       <li>
-        Saphomore year: GPA:94.00/100. Rank 2/92.
+        4th semester: GPA:95.24/100, 4.196/4.3 <mark>(Rank 1/89)</mark>.
+      </li>
+      <li>
+        Saphomore year: GPA:94.04/100, 4.120/4.3 (Rank 2/89).
       </li>
       <li>
         PHY1251 University Physics: 100/100
