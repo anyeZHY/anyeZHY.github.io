@@ -10,12 +10,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate at Shanghai Jiao Tong University, majoring in Artificial Intelligence. Currently, I work as an intern in Machine Vision and Intelligence Group (**MVIG**), under the guidance of Prof. [**Cewu Lu**](https://www.mvig.org/), Ph.D. [**Lixin Yang**](https://lixiny.github.io/) and Ph.D. [**Kailin Li**](https://kailinli.top).
+I am an undergraduate at Shanghai Jiao Tong University, majoring in Artificial Intelligence. Currently, I work as an intern in Machine Vision and Intelligence Group (**MVIG**), supervised by Prof. [**Cewu Lu**](https://www.mvig.org/), Ph.D. [**Lixin Yang**](https://lixiny.github.io/) and Ph.D. [**Kailin Li**](https://kailinli.top).
 
 # 🔥 News
 
 - *2022.04*: &nbsp;Build the website: [aisjtu.icu](https://www.aisjtu.icu).
 - *2021.12*: &nbsp;Become a member of [MVIG](https://www.mvig.org) Lab.
+
+# 🖥️ Internship
+## Machine Vision and Intelligence Group (MVIG)
+
+*2021.12 - (now)*. Supervisor: Prof. [**Cewu Lu**](https://www.mvig.org/), Ph.D. [**Lixin Yang**](https://lixiny.github.io/) and Ph.D. [**Kailin Li**](https://kailinli.top).
+
+-  **Hand-Object Interaction (HOI), 3D mesh reconstruction**.
+    - Construct a novel dataset, including 6 categories of objects, 2000+ materials, 50000+ HO-interactions, 600000+ images. Introduce the corresponding benchmark suite.
 
 # 👨‍💻 Undergraduate Works
 
@@ -140,5 +148,5 @@ Founder and Primary Contributor: **Haoyu Zhen**
 </ul>
 ---
 <center>
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=320&t=n&d=bf1dAkPMHwMjz7l6SO9Kwfw6KGOSR6zdKM549HBCScM&co=ffffff&cmo=0095ff&cmn=ff5353&ct=808080'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=320&t=n&d=bf1dAkPMHwMjz7l6SO9Kwfw6KGOSR6zdKM549HBCScM&co=ffffff&cmo=0095ff&cmn=ff5353&ct=808080'>
 </center>
