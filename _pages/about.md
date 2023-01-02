@@ -18,6 +18,7 @@ I am an undergraduate at Shanghai Jiao Tong University, majoring in Artificial I
 - *2021.12*: &nbsp;Become a member of [MVIG](https://www.mvig.org) Lab.
 
 # 🖥️ Internship
+
 ## Machine Vision and Intelligence Group (MVIG)
 
 *2021.12 - (now)*. Supervisor: Prof. [**Cewu Lu**](https://www.mvig.org/), Ph.D. [**Lixin Yang**](https://lixiny.github.io/) and Ph.D. [**Kailin Li**](https://kailinli.top).
@@ -73,7 +74,7 @@ Founder and Primary Contributor: **Haoyu Zhen**
         4th semester: GPA:95.24/100, 4.196/4.3 <mark>(Rank 1/89)</mark>.
       </li>
       <li>
-        Saphomore year: GPA:94.04/100, 4.120/4.3 (Rank 2/89).
+        Sophomore year: GPA:94.04/100, 4.120/4.3 (Rank 2/89).
       </li>
       <li>
         PHY1251 University Physics: 100/100
