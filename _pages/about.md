@@ -47,8 +47,8 @@ Founder and Primary Contributor: **Haoyu Zhen**
 [**Project**](https://github.com/anyeZHY/GEFF)｜[Paper](https://anyezhy.github.io/pdf/geff.pdf)
 
 - Led a team in the implementation of a deep learning method for gaze estimation using the [PIXIE](https://github.com/YadiraF/PIXIE) [3DV 2021] model (3DV 2021) and [SimCLR](https://github.com/google-research/simclr) [ICML 2020] framework. Proposed a method for extracting gaze features from the face and eyes using contrastive learning. Completed during my sophomore year.
-  </div>
-  </div>
+</div>
+</div>
 
 # 🎖 Honors and Awards
 
