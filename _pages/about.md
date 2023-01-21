@@ -30,28 +30,25 @@ I am an undergraduate at Shanghai Jiao Tong University, majoring in Artificial I
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI-SJTU</div><img src='images/aisjtu.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [A Website For Courses of AI Pilot Class, SJTU](https://aisjtu.icu)
 
 Founder and Primary Contributor: **Haoyu Zhen**
 
-[**Project Source Code**](https://github.com/aisjtu/aisjtu.github.io)｜[![](https://img.shields.io/github/stars/aisjtu/aisjtu.github.io?style=social&label=Stars)](https://github.com/aisjtu/aisjtu.github.io)
+[**Project Source Code**](https://github.com/aisjtu/aisjtu.github.io)｜[**Homepage**](https://aisjtu.icu)｜[![](https://img.shields.io/github/stars/aisjtu/aisjtu.github.io?style=social&label=Stars)](https://github.com/aisjtu/aisjtu.github.io)
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI2611 Project</div><img src='images/geff.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [GEFF: Gaze Estimation with the Fused Features](https://anyezhy.github.io/pdf/geff.pdf)
 
 **Haoyu Zhen**, Yilin Sun
 
-[**Project**](https://github.com/anyeZHY/GEFF) (Also the honor code)
+[**Project**](https://github.com/anyeZHY/GEFF)｜[Paper](https://anyezhy.github.io/pdf/geff.pdf)
 
-- Transfer [PIXIE](https://github.com/YadiraF/PIXIE) [3DV 2021] model from 3D human body reconstruction to gaze estimation. Now the features of the head fuse with that of the eyes (we call our model GEFF).
-- Implement [SimCLR](https://github.com/google-research/simclr) [ICML 2020] framework for training deep and complicated networks (Currently the SimCLR framework was adapted for GEFF).
-</div>
-</div>
+- Led a team in the implementation of a deep learning method for gaze estimation using the [PIXIE](https://github.com/YadiraF/PIXIE) [3DV 2021] model (3DV 2021) and [SimCLR](https://github.com/google-research/simclr) [ICML 2020] framework. Proposed a method for extracting gaze features from the face and eyes using contrastive learning. Completed during my sophomore year.
+  </div>
+  </div>
 
 # 🎖 Honors and Awards
 
@@ -61,7 +58,7 @@ Founder and Primary Contributor: **Haoyu Zhen**
 
 # 📖 Educations
 
-- *2020.09 - (now)*, Undergraduate, Artificial Intelligence, Shanghai Jiao Tong University. GPA: 92.75/100, 4.011/4.3 (Rank: 4/89).
+- *2020.09 - (now)*, Undergraduate, Artificial Intelligence, Shanghai Jiao Tong University. GPA: 93.07/100, 4.037/4.3 (Rank: 3/89).
 
   <details open="open" style='padding: 10px; border-radius:5px 30px 30px 5px; border-width: 1px;'>
     <summary>Detailed Academic Performance
