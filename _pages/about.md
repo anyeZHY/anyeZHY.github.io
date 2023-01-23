@@ -35,6 +35,8 @@ I am an undergraduate at Shanghai Jiao Tong University, majoring in Artificial I
 Founder and Primary Contributor: **Haoyu Zhen**
 
 [**Project Source Code**](https://github.com/aisjtu/aisjtu.github.io)｜[**Homepage**](https://aisjtu.icu)｜[![](https://img.shields.io/github/stars/aisjtu/aisjtu.github.io?style=social&label=Stars)](https://github.com/aisjtu/aisjtu.github.io)
+
+Built a community and developed a website for the AI pilot class at Shanghai Jiao Tong University, where students can evaluate the quality of different courses and share learning materials.
 </div>
 </div>
 
@@ -46,7 +48,7 @@ Founder and Primary Contributor: **Haoyu Zhen**
 
 [**Project**](https://github.com/anyeZHY/GEFF)｜[Paper](https://anyezhy.github.io/pdf/geff.pdf)
 
-- Led a team in the implementation of a deep learning method for gaze estimation using the [PIXIE](https://github.com/YadiraF/PIXIE) [3DV 2021] model (3DV 2021) and [SimCLR](https://github.com/google-research/simclr) [ICML 2020] framework. Proposed a method for extracting gaze features from the face and eyes using contrastive learning. Completed during my sophomore year.
+Led a team in the implementation of a deep learning method for gaze estimation using the [PIXIE](https://github.com/YadiraF/PIXIE) [3DV 2021] model and [SimCLR](https://github.com/google-research/simclr) [ICML 2020] framework. Proposed a method for extracting gaze features from the face and eyes using contrastive learning. Completed during my sophomore year.
 </div>
 </div>
 
