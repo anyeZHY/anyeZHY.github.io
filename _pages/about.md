@@ -24,7 +24,6 @@ I am an undergraduate at Shanghai Jiao Tong University, majoring in Artificial I
 *2021.12 - (now)*. Supervisor: Prof. [**Cewu Lu**](https://www.mvig.org/), Ph.D. [**Lixin Yang**](https://lixiny.github.io/) and Ph.D. [**Kailin Li**](https://kailinli.top).
 
 -  **Hand-Object Interaction (HOI), 3D mesh reconstruction**.
-    - Construct a novel dataset, including 6 categories of objects, 2000+ materials, 50000+ HO-interactions, 600000+ images. Introduce the corresponding benchmark suite.
 
 # 👨‍💻 Undergraduate Works
 
@@ -62,7 +61,7 @@ Led a team in the implementation of a deep learning method for gaze estimation u
 
 - *2020.09 - (now)*, Undergraduate, Artificial Intelligence, Shanghai Jiao Tong University. GPA: 93.07/100, 4.037/4.3 (Rank: 3/89).
 
-  <details open="open" style='padding: 10px; border-radius:5px 30px 30px 5px; border-width: 1px;'>
+  <details style='padding: 10px; border-radius:5px 30px 30px 5px; border-width: 1px;'>
     <summary>Detailed Academic Performance
       <a href="https://github.com/anyeZHY/SJTU-Course-Stack">
         [Implementation and Lecture Notes]
