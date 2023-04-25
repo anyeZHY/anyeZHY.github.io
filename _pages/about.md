@@ -10,45 +10,80 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate at Shanghai Jiao Tong University, majoring in Artificial Intelligence. Currently, I work as an intern in Machine Vision and Intelligence Group (**MVIG**), supervised by Prof. [**Cewu Lu**](https://www.mvig.org/), Ph.D. [**Lixin Yang**](https://lixiny.github.io/) and Ph.D. [**Kailin Li**](https://kailinli.top).
+I am currently pursuing my undergraduate degree at Shanghai Jiao Tong University.
+As a research assistant at the Machine Vision and Intelligence Group (MVIG), I am under the supervision of Prof. [Cewu Lu], Ph.D. [Lixin Yang], and Ph.D. [Kailin Li].
+Additionally, I work closely with Prof. [Junchi Yan] and Ph.D. [Liangliang Shi]. 
+
+In the upcoming summer of 2023, I will be a visiting student at Massachusetts Institute of Technology, where I will be working under the guidance of Prof. [Josh Tenenbaum], Prof. [Chuang Gan] and Ph.D. [Yining Hong].
+
+
+<!-- Mappings -->
+[MVIG]: https://www.mvig.org/
+[Cewu Lu]: https://www.mvig.org/
+[Lixin Yang]: https://lixiny.github.io/
+[Kailin Li]: https://kailinli.top
+[Junchi Yan]: https://thinklab.sjtu.edu.cn
+[Liangliang Shi]: https://www.researchgate.net/profile/Liangliang-Shi-2
+[Josh Tenenbaum]: https://web.mit.edu/cocosci/josh.html
+[Chuang Gan]: https://people.csail.mit.edu/ganchuang/
+[Yining Hong]: https://evelinehong.github.io
 
 # 🔥 News
-
+- *2023.04*: &nbsp;One paper was accepted by [ICML 2023](https://icml.cc/Conferences/2023).
 - *2022.04*: &nbsp;Build the website: [aisjtu.icu](https://www.aisjtu.icu).
-- *2021.12*: &nbsp;Become a member of [MVIG](https://www.mvig.org) Lab.
+- *2021.12*: &nbsp;Become a member of [MVIG] Lab.
 
-# 🖥️ Internship
+# 📖 Publications
 
-## Machine Vision and Intelligence Group (MVIG)
+<div class='paper-box'>
+  <div class='paper-box-image'>
+  <div>
+  <div class="badge">ICML 2023</div>
+  <img src='images/iot-cl.png' alt="sym" width="100%"></div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  [Cost Parameterization and Constraint Relaxation for Inverse Optimal Transport with Applications to Contrastive Learning]()
 
-*2021.12 - (now)*. Supervisor: Prof. [**Cewu Lu**](https://www.mvig.org/), Ph.D. [**Lixin Yang**](https://lixiny.github.io/) and Ph.D. [**Kailin Li**](https://kailinli.top).
+  [Liangliang Shi], Gu Zhang, **Haoyu Zhen**, Jintao Fan, [Junchi Yan]
 
--  **Hand-Object Interaction (HOI), 3D mesh reconstruction**.
+  [OpenReview]() | [Arxiv]() | [Slides](pdfs/iot-cl.pdf)
+  </div>
+</div>
 
 # 👨‍💻 Undergraduate Works
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI-SJTU</div><img src='images/aisjtu.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[A Website For Courses of AI Pilot Class, SJTU](https://aisjtu.icu)
+<div class='paper-box'>
+  <div class='paper-box-image'>
+  <div>
+  <div class="badge">AI-SJTU</div>
+  <img src='images/aisjtu.png' alt="sym" width="100%"></div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  [A Website For Courses of AI Pilot Class, SJTU](https://aisjtu.icu)
 
-Founder and Primary Contributor: **Haoyu Zhen**
+  Founder and Primary Contributor: **Haoyu Zhen**
 
-[**Project Source Code**](https://github.com/aisjtu/aisjtu.github.io)｜[**Homepage**](https://aisjtu.icu)｜[![](https://img.shields.io/github/stars/aisjtu/aisjtu.github.io?style=social&label=Stars)](https://github.com/aisjtu/aisjtu.github.io)
+  [**Project Source Code**](https://github.com/aisjtu/aisjtu.github.io)｜[**Homepage**](https://aisjtu.icu)｜[![](https://img.shields.io/github/stars/aisjtu/aisjtu.github.io?style=social&label=Stars)](https://github.com/aisjtu/aisjtu.github.io)
 
-Built a community and developed a website for the AI pilot class at Shanghai Jiao Tong University, where students can evaluate the quality of different courses and share learning materials.
+  I built a community and developed a website for the AI pilot class at Shanghai Jiao Tong University. The website enables students to evaluate the quality of different courses and share learning materials.
+  </div>
 </div>
-</div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI2611 Project</div><img src='images/geff.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[GEFF: Gaze Estimation with the Fused Features](https://anyezhy.github.io/pdf/geff.pdf)
+<div class='paper-box'>
+  <div class='paper-box-image'>
+  <div>
+    <div class="badge">AI2611 Project</div>
+    <img src='images/geff.png' alt="sym" width="100%"></div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  [GEFF: Gaze Estimation with the Fused Features](https://anyezhy.github.io/pdf/geff.pdf)
 
-**Haoyu Zhen**, Yilin Sun
+  **Haoyu Zhen**, Yilin Sun
 
-[**Project**](https://github.com/anyeZHY/GEFF)｜[Paper](https://anyezhy.github.io/pdf/geff.pdf)
+  [**Project**](https://github.com/anyeZHY/GEFF)｜[Paper](https://anyezhy.github.io/pdf/geff.pdf)
 
-Led a team in the implementation of a deep learning method for gaze estimation using the [PIXIE](https://github.com/YadiraF/PIXIE) [3DV 2021] model and [SimCLR](https://github.com/google-research/simclr) [ICML 2020] framework. Proposed a method for extracting gaze features from the face and eyes using contrastive learning. Completed during my sophomore year.
-</div>
+  During my sophomore year, I spearheaded the implementation of a deep learning method for gaze estimation using the [PIXIE](https://github.com/YadiraF/PIXIE) [3DV 2021] model and [SimCLR](https://github.com/google-research/simclr) [ICML 2020] framework. In addition, I proposed a novel method for extracting gaze features from the face and eyes using contrastive learning.
+  </div>
 </div>
 
 # 🎖 Honors and Awards
@@ -103,11 +138,23 @@ Led a team in the implementation of a deep learning method for gaze estimation u
 
 - *2014.09 - 2020.06*, Class of Physics Olympiad, [Beijing National Day School](http://www.bndsedu.com).
 
+# 🖥️ Internship
+
+## Machine Vision and Intelligence Group (MVIG)
+
+*2021.12 - (now)*.
+Research on **Hand-Object Interaction (HOI)** and **3D mesh reconstruction**.
+
+## ThinkLab
+
+*2022.09 - (now)*.
+Research on **Contrastive Learning** and **Optimal Transport**.
+
 # 🍫 Life
 
 <ul>
   <li>
-    Sports. I play for the 
+    I am an active athlete who plays for the
     <grow>
     	<b>
       	<div class='tooltip'>badminton team of SEIEE
@@ -127,10 +174,10 @@ Led a team in the implementation of a deep learning method for gaze estimation u
         </div>
       </b>
     </grow>
-    I also love playing baseball, table tennis, football and basketball.
+    In addition to these sports, I also enjoy playing baseball, table tennis, football, and basketball.
   </li>
   <li>
-    Movies and TV series. I am a fandom of DC movies, Rick & Morty, Breaking Bad and Better Call Saul.
+    I am a fan of DC movies, as well as the TV series Rick & Morty, Breaking Bad, and Better Call Saul.
   </li>
   <li>
     <grow>
@@ -143,6 +190,8 @@ Led a team in the implementation of a deep learning method for gaze estimation u
     	</b>
     </grow>
     ✨
+    <a href='https://en.wikipedia.org/wiki/Casablanca_(film)'>We will always have Paris (2022.10)</a>
+    🇫🇷
   </li>
 </ul>
 ---
