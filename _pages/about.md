@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-
-I am currently pursuing my undergraduate degree at Shanghai Jiao Tong University.
+I am currently an undergraduate at Shanghai Jiao Tong University.
 As a research assistant at the Machine Vision and Intelligence Group (MVIG), I am under the supervision of Prof. [Cewu Lu], Ph.D. [Lixin Yang], and Ph.D. [Kailin Li].
 Additionally, I work closely with Prof. [Junchi Yan] and Ph.D. [Liangliang Shi]. 
 
