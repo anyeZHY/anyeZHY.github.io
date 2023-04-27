@@ -45,7 +45,7 @@ In the upcoming summer of 2023, I will be a visiting student at Massachusetts In
 
   [Liangliang Shi], Gu Zhang, **Haoyu Zhen**, Jintao Fan, [Junchi Yan]
 
-  [OpenReview]() | [Arxiv]() | [Slides](pdfs/iot-cl.pdf)
+  [OpenReview]() | [Arxiv]() | [Slides](pdf/iot-cl.pdf)
   </div>
 </div>
 
