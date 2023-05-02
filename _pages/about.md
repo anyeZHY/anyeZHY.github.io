@@ -135,7 +135,7 @@ In the upcoming summer of 2023, I will be a visiting student at Massachusetts In
     </ul>
   </details>
 
-- *2014.09 - 2020.06*, Class of Physics Olympiad, [Beijing National Day School](http://www.bndsedu.com).
+- *2014.09 - 2020.06*, Class of Physics Olympiad, [Beijing National Day School](http://www.bnds.cn/en/).
 
 # 🖥️ Internship
 
