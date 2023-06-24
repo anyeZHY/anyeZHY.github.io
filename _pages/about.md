@@ -10,10 +10,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 I am currently an undergraduate at Shanghai Jiao Tong University.
-As a research assistant at the Machine Vision and Intelligence Group (MVIG), I am under the supervision of Prof. [Cewu Lu], Ph.D. [Lixin Yang], and Ph.D. [Kailin Li].
-Additionally, I work closely with Prof. [Junchi Yan] and Ph.D. [Liangliang Shi]. 
+As a research assistant at the Machine Vision and Intelligence Group (MVIG), I am under the supervision of Prof. [Cewu Lu].
+Additionally, I work closely with Prof. [Junchi Yan]. 
 
-In the upcoming summer of 2023, I will be a visiting student at Massachusetts Institute of Technology, where I will be working under the guidance of Prof. [Josh Tenenbaum], Prof. [Chuang Gan] and Ph.D. [Yining Hong].
+In the upcoming summer of 2023, I will be a visiting student at Massachusetts Institute of Technology, where I will be working under the guidance of Prof. [Josh Tenenbaum] and Prof. [Chuang Gan].
 
 
 <!-- Mappings -->
@@ -30,7 +30,6 @@ In the upcoming summer of 2023, I will be a visiting student at Massachusetts In
 # 🔥 News
 - *2023.04*: &nbsp;One paper was accepted by [ICML 2023](https://icml.cc/Conferences/2023).
 - *2022.04*: &nbsp;Build the website: [aisjtu.icu](https://www.aisjtu.icu).
-- *2021.12*: &nbsp;Become a member of [MVIG] Lab.
 
 # 📖 Publications
 
@@ -41,11 +40,11 @@ In the upcoming summer of 2023, I will be a visiting student at Massachusetts In
   <img src='images/iot-cl.png' alt="sym" width="100%"></div>
   </div>
   <div class='paper-box-text' markdown="1">
-  [Cost Parameterization and Constraint Relaxation for Inverse Optimal Transport with Applications to Contrastive Learning]()
+  Understanding and Generalizing Contrastive Learning from the Inverse Optimal Transport Perspective
 
   [Liangliang Shi], Gu Zhang, **Haoyu Zhen**, Jintao Fan, [Junchi Yan]
 
-  [OpenReview]() | [Arxiv]() | [Slides](pdf/iot-cl.pdf)
+  [OpenReview](https://openreview.net/forum?id=DBlWCsOy94) | [Slides](pdf/iot-cl.pdf)
   </div>
 </div>
 
