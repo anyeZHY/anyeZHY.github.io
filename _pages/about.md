@@ -92,7 +92,7 @@ In the upcoming summer of 2023, I will be a visiting student at Massachusetts In
 
 # 📖 Educations
 
-- *2020.09 - (now)*, Undergraduate, Artificial Intelligence, Shanghai Jiao Tong University. GPA: 93.07/100, 4.037/4.3 (Rank: 3/89).
+- *2020.09 - (now)*, Undergraduate, Artificial Intelligence, Shanghai Jiao Tong University. GPA: 92.80/100, 4.03/4.3 (Rank: 4/88).
 
   <details style='padding: 10px; border-radius:5px 30px 30px 5px; border-width: 1px;'>
     <summary>Detailed Academic Performance
@@ -102,34 +102,10 @@ In the upcoming summer of 2023, I will be a visiting student at Massachusetts In
     </summary>
     <ul>
       <li>
-        4th semester: GPA:95.24/100, 4.196/4.3 <mark>(Rank 1/89)</mark>.
+        4th semester: GPA:95.24/100, 4.20/4.3 <mark>(Rank 1/89)</mark>.
       </li>
       <li>
-        Sophomore year: GPA:94.04/100, 4.120/4.3 (Rank 2/89).
-      </li>
-      <li>
-        PHY1251 University Physics: 100/100
-      </li>
-      <li>
-        AI1602 Artificial Intelligence Problem Solving and Practice: 99.61/100
-      </li>
-      <li>
-  			AI2612 Machine Learning: 99/100
-      </li>
-      <li>
-  			AI2619 Digital signal and image processing: 99/100
-      </li>
-      <li>
-  			AI2615 Design and Analysis of Algorithms: 98/100
-      </li>
-      <li>
-  			CS2601 Linear and Convex Optimization: 98/100
-      </li>
-      <li>
-  			MATH1204 Mathematical Analysis: 97/100
-      </li>
-      <li>
-  			......
+        Sophomore year: GPA:94.04/100, 4.12/4.3 (Rank 2/89).
       </li>
     </ul>
   </details>
