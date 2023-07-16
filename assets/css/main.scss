@@ -101,7 +101,7 @@
 
     .paper-box-image{
         justify-content: right;
-        min-width: 200px;
+        min-width: 20%;
         max-width: 40%;
         order: 2;
         img {
@@ -114,7 +114,7 @@
     .paper-box-text{
         justify-content: left;
         padding-left: 2em;
-        min-width: 200px;
+        min-width: 20%;
         max-width: 60%;
         order: 1;
     }
