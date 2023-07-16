@@ -16,28 +16,40 @@ Additionally, I work closely with Prof. [Junchi Yan].
 In the upcoming summer of 2023, I will be a visiting student at Massachusetts Institute of Technology, where I will be working under the guidance of Prof. [Josh Tenenbaum] and Prof. [Chuang Gan].
 
 
-<!-- Mappings -->
+<!------------- Mappings --------------->
+<!-- MVIG -->
 [MVIG]: https://www.mvig.org/
+[Machine Vision and Intelligence Group]: https://www.mvig.org/
 [Cewu Lu]: https://www.mvig.org/
 [Lixin Yang]: https://lixiny.github.io/
-[Kailin Li]: https://kailinli.top
-[Junchi Yan]: https://thinklab.sjtu.edu.cn
+[Kailin Li]: https://kailinli.top/
+<!-- ThinkLab -->
+[ThinkLab]: https://thinklab.sjtu.edu.cn/
+[SJTU-ReThinkLab]: https://thinklab.sjtu.edu.cn/
+[Junchi Yan]: https://thinklab.sjtu.edu.cn/
 [Liangliang Shi]: https://www.researchgate.net/profile/Liangliang-Shi-2
+<!-- CoCoSci Lab -->
+[MIT]: https://www.mit.edu/
+[Massachusetts Institute of Technology]: https://www.mit.edu/
+[CoCoSci Lab]: https://cocosci.mit.edu/
+[MIT-IBM Watson AI Lab]: https://mitibmwatsonailab.mit.edu/
 [Josh Tenenbaum]: https://web.mit.edu/cocosci/josh.html
 [Chuang Gan]: https://people.csail.mit.edu/ganchuang/
-[Yining Hong]: https://evelinehong.github.io
+[Yining Hong]: https://evelinehong.github.io/
 
 # 🔥 News
+- *2023.07*: &nbsp;One paper was accepted by [ICCV 2023](https://iccv2023.thecvf.com/).
 - *2023.04*: &nbsp;One paper was accepted by [ICML 2023](https://icml.cc/Conferences/2023).
-- *2022.04*: &nbsp;Build the website: [aisjtu.icu](https://www.aisjtu.icu).
+- *2022.04*: &nbsp;Build the website: [AISJTU.ICU](https://www.aisjtu.icu).
 
 # 📖 Publications
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-  <div>
-  <div class="badge">ICML 2023</div>
-  <img src='images/iot-cl.png' alt="sym" width="100%"></div>
+    <div>
+      <div class="badge">ICML 2023</div>
+      <img src='images/iot-cl.png' alt="sym" width="100%">
+    </div>
   </div>
   <div class='paper-box-text' markdown="1">
   Understanding and Generalizing Contrastive Learning from the Inverse Optimal Transport Perspective
@@ -112,17 +124,58 @@ In the upcoming summer of 2023, I will be a visiting student at Massachusetts In
 
 - *2014.09 - 2020.06*, Class of Physics Olympiad, [Beijing National Day School](http://www.bnds.cn/en/).
 
-# 🖥️ Internship
+# 🖥️ Experiences
 
-## Machine Vision and Intelligence Group (MVIG)
+<div class='paper-box-right'>
+  <div class='paper-box-text' markdown="1">
+  [CoCoSci Lab], [Massachusetts Institute of Technology] and [MIT-IBM Watson AI Lab](https://mitibmwatsonailab.mit.edu/)
 
-*2021.12 - (now)*.
-Research on **Hand-Object Interaction (HOI)** and **3D mesh reconstruction**.
+  Visiting Student, *2023.07 - (now)*
 
-## ThinkLab
+  Advisor: [Josh Tenenbaum], [Chuang Gan]
+  </div>
+  <div class='paper-box-image'>
+    <div>
+      <a href='https://mit.edu'>
+      <img src='images/mit.svg' alt="sym" width="100px" style="padding: 10px">
+      </a>
+    </div>
+  </div>
+</div>
 
-*2022.09 - (now)*.
-Research on **Contrastive Learning** and **Optimal Transport**.
+<div class='paper-box-right'>
+  <div class='paper-box-text' markdown="1">
+  [Machine Vision and Intelligence Group]
+
+  Research undergraduate, *2021.12 - (now)*
+
+  Advisor: [Cewu Lu]
+  </div>
+  <div class='paper-box-image'>
+    <div>
+      <a href='https://www.mvig.org/'>
+      <img src='images/mvig.png' alt="sym" width="100px" style="padding: 10px">
+      </a>
+    </div>
+  </div>
+</div>
+
+<div class='paper-box-right'>
+  <div class='paper-box-text' markdown="1">
+  [SJTU-ReThinkLab]
+
+  Research undergraduate, *2022.09 - 2023.05*
+
+  Advisor: [Junchi Yan]
+  </div>
+  <div class='paper-box-image'>
+    <div>
+      <a href='https://thinklab.sjtu.edu.cn/'>
+      <img src='images/thinklab.png' alt="sym" width="100px" style="padding: 10px;">
+      </a>
+    </div>
+  </div>
+</div>
 
 # 🍫 Life
 
@@ -169,6 +222,4 @@ Research on **Contrastive Learning** and **Optimal Transport**.
   </li>
 </ul>
 ---
-<center>
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=320&t=n&d=bf1dAkPMHwMjz7l6SO9Kwfw6KGOSR6zdKM549HBCScM&co=ffffff&cmo=0095ff&cmn=ff5353&ct=808080'></script>
-</center>
+<center><script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=320&t=n&d=bf1dAkPMHwMjz7l6SO9Kwfw6KGOSR6zdKM549HBCScM&co=ffffff&cmo=0095ff&cmn=ff5353&ct=808080'></script></center>
