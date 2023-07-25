@@ -36,13 +36,35 @@ In the upcoming summer of 2023, I will be a visiting student at Massachusetts In
 [Josh Tenenbaum]: https://web.mit.edu/cocosci/josh.html
 [Chuang Gan]: https://people.csail.mit.edu/ganchuang/
 [Yining Hong]: https://evelinehong.github.io/
+[Peihao Chen]: https://peihaochen.github.io/
+[Shuhong Zheng]: https://zsh2000.github.io/
+[Yilun Du]: https://yilundu.github.io/
+[Zhenfang Chen]: https://zfchenunique.github.io/
+
 
 # 🔥 News
+- *2023.07*: &nbsp;3D-LLM was released on [GitHub](https://github.com/UMass-Foundation-Model/3D-LLM)
 - *2023.07*: &nbsp;One paper was accepted by [ICCV 2023](https://iccv2023.thecvf.com/).
 - *2023.04*: &nbsp;One paper was accepted by [ICML 2023](https://icml.cc/Conferences/2023).
 - *2022.04*: &nbsp;Build the website: [AISJTU.ICU](https://www.aisjtu.icu).
 
 # 📖 Publications
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">3D-LLM</div>
+      <img src='images/3dllm.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  3D-LLM: Injecting the 3D World into Large Language Models
+
+  [Yining Hong], **Haoyu Zhen**, [Peihao Chen], [Shuhong Zheng], [Yilun Du], [Zhenfang Chen], [Chuang Gan]
+
+  [arXiv](https://arxiv.org/abs/2307.12981)｜[Project](https://vis-www.cs.umass.edu/3dllm/)｜[Code](https://github.com/UMass-Foundation-Model/3D-LLM)|[![](https://img.shields.io/github/stars/UMass-Foundation-Model/3D-LLM?style=social&label=Stars)](https://github.com/UMass-Foundation-Model/3D-LLM/stargazers)
+  </div>
+</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -56,7 +78,7 @@ In the upcoming summer of 2023, I will be a visiting student at Massachusetts In
 
   [Liangliang Shi], Gu Zhang, **Haoyu Zhen**, Jintao Fan, [Junchi Yan]
 
-  [OpenReview](https://openreview.net/forum?id=DBlWCsOy94) | [Slides](pdf/iot-cl.pdf)
+  [OpenReview](https://openreview.net/forum?id=DBlWCsOy94)｜[Slides](pdf/iot-cl.pdf)
   </div>
 </div>
 
@@ -222,4 +244,4 @@ In the upcoming summer of 2023, I will be a visiting student at Massachusetts In
   </li>
 </ul>
 ---
-<center><script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=320&t=n&d=bf1dAkPMHwMjz7l6SO9Kwfw6KGOSR6zdKM549HBCScM&co=ffffff&cmo=0095ff&cmn=ff5353&ct=808080'></script></center>
+<!-- <center><script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=320&t=n&d=bf1dAkPMHwMjz7l6SO9Kwfw6KGOSR6zdKM549HBCScM&co=ffffff&cmo=0095ff&cmn=ff5353&ct=808080'></script></center> -->
