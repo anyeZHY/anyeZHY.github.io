@@ -9,14 +9,16 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-I am currently an undergraduate at Shanghai Jiao Tong University.
-As a research assistant at the Machine Vision and Intelligence Group (MVIG), I am under the supervision of Prof. [Cewu Lu].
-Additionally, I work closely with Prof. [Junchi Yan]. 
+I am currently an undergraduate at [Shanghai Jiao Tong University] (SJTU), majoring in Artificial Intelligence.
 
-In the upcoming summer of 2023, I will be a visiting student at Massachusetts Institute of Technology, where I will be working under the guidance of Prof. [Josh Tenenbaum] and Prof. [Chuang Gan].
+I am also a visiting student/visitor at [Massachusetts Institute of Technology] and [MIT-IBM Watson AI Lab], where I will be working under the guidance of Prof. [Josh Tenenbaum] and Prof. [Chuang Gan].
+
+In addition, as a research assistant at the [Machine Vision and Intelligence Group] (MVIG), I am under the supervision of Prof. [Cewu Lu].
+Previously, I worked with Prof. [Junchi Yan] at the [SJTU-ReThinkLab].
 
 
 <!------------- Mappings --------------->
+[Shanghai Jiao Tong University]: https://en.sjtu.edu.cn
 <!-- MVIG -->
 [MVIG]: https://www.mvig.org/
 [Machine Vision and Intelligence Group]: https://www.mvig.org/
@@ -152,7 +154,7 @@ In the upcoming summer of 2023, I will be a visiting student at Massachusetts In
   <div class='paper-box-text' markdown="1">
   [CoCoSci Lab], [Massachusetts Institute of Technology] and [MIT-IBM Watson AI Lab](https://mitibmwatsonailab.mit.edu/)
 
-  Visiting Student, *2023.07 - (now)*
+  Visiting Student, *2023.03 - (now)*
 
   Advisor: [Josh Tenenbaum], [Chuang Gan]
   </div>
