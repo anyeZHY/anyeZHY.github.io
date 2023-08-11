@@ -45,7 +45,7 @@ Previously, I worked with Prof. [Junchi Yan] at the [SJTU-ReThinkLab].
 
 
 # 🔥 News
-- *2023.07*: &nbsp;3D-LLM was released on [GitHub](https://github.com/UMass-Foundation-Model/3D-LLM)
+- *2023.07*: &nbsp;3D-LLM was released on [GitHub](https://github.com/UMass-Foundation-Model/3D-LLM) and [arXiv](https://arxiv.org/abs/2307.12981).
 - *2023.07*: &nbsp;One paper was accepted by [ICCV 2023](https://iccv2023.thecvf.com/).
 - *2023.04*: &nbsp;One paper was accepted by [ICML 2023](https://icml.cc/Conferences/2023).
 - *2022.04*: &nbsp;Build the website: [AISJTU.ICU](https://www.aisjtu.icu).
@@ -56,7 +56,7 @@ Previously, I worked with Prof. [Junchi Yan] at the [SJTU-ReThinkLab].
   <div class='paper-box-image'>
     <div>
       <div class="badge">3D-LLM</div>
-      <img src='images/3dllm.png' alt="sym" width="100%">
+      <img src='https://vis-www.cs.umass.edu/3dllm/data/new_chat_demo.mp4' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -81,6 +81,8 @@ Previously, I worked with Prof. [Junchi Yan] at the [SJTU-ReThinkLab].
   [Liangliang Shi], Gu Zhang, **Haoyu Zhen**, Jintao Fan, [Junchi Yan]
 
   [OpenReview](https://openreview.net/forum?id=DBlWCsOy94)｜[Slides](pdf/iot-cl.pdf)
+
+  **ICML 2023**
   </div>
 </div>
 
@@ -100,6 +102,21 @@ Previously, I worked with Prof. [Junchi Yan] at the [SJTU-ReThinkLab].
   [**Project Source Code**](https://github.com/aisjtu/aisjtu.github.io)｜[**Homepage**](https://aisjtu.icu)｜[![](https://img.shields.io/github/stars/aisjtu/aisjtu.github.io?style=social&label=Stars)](https://github.com/aisjtu/aisjtu.github.io)
 
   I built a community and developed a website for the AI pilot class at Shanghai Jiao Tong University. The website enables students to evaluate the quality of different courses and share learning materials.
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+  <div>
+  <div class="badge">PyBlend</div>
+  <img src='https://raw.githubusercontent.com/anyeZHY/PyBlend/main/docs/teaser.gif' alt="sym" width="100%"></div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  [PyBlend: A Python Library for Blender](https://anyezhy.github.io/PyBlend/)
+
+  [**Github**](https://github.com/anyeZHY/PyBlend)｜[![](https://img.shields.io/github/stars/anyeZHY/PyBlend?style=social&label=Stars)](https://github.com/anyeZHY/PyBlend/stargazers)
+
+PyBlend, a project I've passionately contributed to, is a Python library that provides a high-level interface for Blender scripting. It empowers artists and developers like me to effortlessly enhance Blender workflows with an array of dynamic functions.
   </div>
 </div>
 
