@@ -19,9 +19,10 @@ Previously, I worked with Prof. [Junchi Yan] at the [SJTU-ReThinkLab].
 {% include_relative mappings.md %}
 
 # 🔥 News
+- *2023.08*: &nbsp;Color-NeuS was released on [GitHub](https://github.com/Colmar-zlicheng/Color-NeuS) and [arXiv](https://arxiv.org/abs/2308.06962).
 - *2023.07*: &nbsp;3D-LLM was released on [GitHub](https://github.com/UMass-Foundation-Model/3D-LLM) and [arXiv](https://arxiv.org/abs/2307.12981).
-- *2023.07*: &nbsp;One paper was accepted by [ICCV 2023](https://iccv2023.thecvf.com/).
-- *2023.04*: &nbsp;One paper was accepted by [ICML 2023](https://icml.cc/Conferences/2023).
+- *2023.07*: &nbsp;One paper **CHORD** was accepted by [ICCV 2023](https://iccv2023.thecvf.com/).
+- *2023.04*: &nbsp;One paper **IOT-CL** was accepted by [ICML 2023](https://icml.cc/Conferences/2023).
 - *2022.04*: &nbsp;Build the website: [AISJTU.ICU](https://www.aisjtu.icu).
 
 # 📖 Publications
@@ -233,6 +234,9 @@ PyBlend, a project I've passionately contributed to, is a Python library that pr
 
 <ul>
   <li>
+  My best friend: <a href='https://sylvansun.github.io'>Yilin Sun</a>.
+  </li>
+  <li>
     I am an active athlete who plays for the
     <grow>
     	<b>
@@ -274,4 +278,4 @@ PyBlend, a project I've passionately contributed to, is a Python library that pr
   </li>
 </ul>
 ---
-<center><script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=320&t=n&d=bf1dAkPMHwMjz7l6SO9Kwfw6KGOSR6zdKM549HBCScM&co=ffffff&cmo=0095ff&cmn=ff5353&ct=808080'></script></center>
+<!-- <center><script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=320&t=n&d=bf1dAkPMHwMjz7l6SO9Kwfw6KGOSR6zdKM549HBCScM&co=ffffff&cmo=0095ff&cmn=ff5353&ct=808080'></script></center> -->
