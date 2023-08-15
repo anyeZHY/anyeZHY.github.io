@@ -16,33 +16,7 @@ I am also a visiting student/visitor at [Massachusetts Institute of Technology] 
 In addition, as a research assistant at the [Machine Vision and Intelligence Group] (MVIG), I am under the supervision of Prof. [Cewu Lu].
 Previously, I worked with Prof. [Junchi Yan] at the [SJTU-ReThinkLab].
 
-
-<!------------- Mappings --------------->
-[Shanghai Jiao Tong University]: https://en.sjtu.edu.cn
-<!-- MVIG -->
-[MVIG]: https://www.mvig.org/
-[Machine Vision and Intelligence Group]: https://www.mvig.org/
-[Cewu Lu]: https://www.mvig.org/
-[Lixin Yang]: https://lixiny.github.io/
-[Kailin Li]: https://kailinli.top/
-<!-- ThinkLab -->
-[ThinkLab]: https://thinklab.sjtu.edu.cn/
-[SJTU-ReThinkLab]: https://thinklab.sjtu.edu.cn/
-[Junchi Yan]: https://thinklab.sjtu.edu.cn/
-[Liangliang Shi]: https://www.researchgate.net/profile/Liangliang-Shi-2
-<!-- CoCoSci Lab -->
-[MIT]: https://www.mit.edu/
-[Massachusetts Institute of Technology]: https://www.mit.edu/
-[CoCoSci Lab]: https://cocosci.mit.edu/
-[MIT-IBM Watson AI Lab]: https://mitibmwatsonailab.mit.edu/
-[Josh Tenenbaum]: https://web.mit.edu/cocosci/josh.html
-[Chuang Gan]: https://people.csail.mit.edu/ganchuang/
-[Yining Hong]: https://evelinehong.github.io/
-[Peihao Chen]: https://peihaochen.github.io/
-[Shuhong Zheng]: https://zsh2000.github.io/
-[Yilun Du]: https://yilundu.github.io/
-[Zhenfang Chen]: https://zfchenunique.github.io/
-
+{% include_relative mappings.md %}
 
 # 🔥 News
 - *2023.07*: &nbsp;3D-LLM was released on [GitHub](https://github.com/UMass-Foundation-Model/3D-LLM) and [arXiv](https://arxiv.org/abs/2307.12981).
@@ -60,11 +34,44 @@ Previously, I worked with Prof. [Junchi Yan] at the [SJTU-ReThinkLab].
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-  3D-LLM: Injecting the 3D World into Large Language Models
+  **3D-LLM: Injecting the 3D World into Large Language Models**
 
   [Yining Hong], **Haoyu Zhen**, [Peihao Chen], [Shuhong Zheng], [Yilun Du], [Zhenfang Chen], [Chuang Gan]
 
   [arXiv](https://arxiv.org/abs/2307.12981)｜[Project](https://vis-www.cs.umass.edu/3dllm/)｜[Code](https://github.com/UMass-Foundation-Model/3D-LLM)|[![](https://img.shields.io/github/stars/UMass-Foundation-Model/3D-LLM?style=social&label=Stars)](https://github.com/UMass-Foundation-Model/3D-LLM/stargazers)
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">arXiv</div>
+      <img src='images/color_neus.mp4' alt="sym" width="90%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **Color-NeuS: Reconstructing Neural Implicit Surfaces with Color**
+
+  [Licheng Zhong], [Lixin Yang], [Kailin Li], **Haoyu Zhen**, [Mei Han], [Cewu Lu]
+
+  [arXiv](https://arxiv.org/abs/2308.06962)｜[Project](https://colmar-zlicheng.github.io/color_neus/)｜[Code](https://github.com/Colmar-zlicheng/Color-NeuS)｜[Data](https://drive.google.com/drive/folders/1C6vcRiy_MFMtsaR8AydRAPrLIkok-tJm)｜[![](https://img.shields.io/github/stars/Colmar-zlicheng/Color-NeuS?style=social&label=Stars)](https://github.com/Colmar-zlicheng/Color-NeuS/stargazers)
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ICCV 2023</div>
+      <img src='images/chord.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **CHORD: Category-level in-Hand Object Reconstruction via Shape Deformation**
+
+  [Kailin Li], [Lixin Yang], **Haoyu Zhen**, [Zenan Lin](), [Xinyu Zhan], [Licheng Zhong], [Jian Xu], [Kejian Wu], [Cewu Lu]
+
+  **ICCV 2023**
   </div>
 </div>
 
@@ -76,7 +83,7 @@ Previously, I worked with Prof. [Junchi Yan] at the [SJTU-ReThinkLab].
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-  Understanding and Generalizing Contrastive Learning from the Inverse Optimal Transport Perspective
+  **Understanding and Generalizing Contrastive Learning from the Inverse Optimal Transport Perspective**
 
   [Liangliang Shi], Gu Zhang, **Haoyu Zhen**, Jintao Fan, [Junchi Yan]
 
@@ -86,7 +93,26 @@ Previously, I worked with Prof. [Junchi Yan] at the [SJTU-ReThinkLab].
   </div>
 </div>
 
+- **Relative Entropic Optimal Transport: a (Prior-aware) Matching Perspective to (Unbalanced) Classification.** [Liangliang Shi], **Haoyu Zhen**, Gu Zhang, [Junchi Yan]
+
+---
+
 # 👨‍💻 Undergraduate Works
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+  <div>
+  <div class="badge">PyBlend</div>
+  <img src='https://raw.githubusercontent.com/anyeZHY/PyBlend/main/docs/teaser.gif' alt="sym" width="100%"></div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  [PyBlend: A Python Library for Blender](https://anyezhy.github.io/PyBlend/)
+
+  [**Github**](https://github.com/anyeZHY/PyBlend)｜[![](https://img.shields.io/github/stars/anyeZHY/PyBlend?style=social&label=Stars)](https://github.com/anyeZHY/PyBlend/stargazers)
+
+PyBlend, a project I've passionately contributed to, is a Python library that provides a high-level interface for Blender scripting. It empowers artists and developers like me to effortlessly enhance Blender workflows with an array of dynamic functions.
+  </div>
+</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -102,21 +128,6 @@ Previously, I worked with Prof. [Junchi Yan] at the [SJTU-ReThinkLab].
   [**Project Source Code**](https://github.com/aisjtu/aisjtu.github.io)｜[**Homepage**](https://aisjtu.icu)｜[![](https://img.shields.io/github/stars/aisjtu/aisjtu.github.io?style=social&label=Stars)](https://github.com/aisjtu/aisjtu.github.io)
 
   I built a community and developed a website for the AI pilot class at Shanghai Jiao Tong University. The website enables students to evaluate the quality of different courses and share learning materials.
-  </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-  <div>
-  <div class="badge">PyBlend</div>
-  <img src='https://raw.githubusercontent.com/anyeZHY/PyBlend/main/docs/teaser.gif' alt="sym" width="100%"></div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-  [PyBlend: A Python Library for Blender](https://anyezhy.github.io/PyBlend/)
-
-  [**Github**](https://github.com/anyeZHY/PyBlend)｜[![](https://img.shields.io/github/stars/anyeZHY/PyBlend?style=social&label=Stars)](https://github.com/anyeZHY/PyBlend/stargazers)
-
-PyBlend, a project I've passionately contributed to, is a Python library that provides a high-level interface for Blender scripting. It empowers artists and developers like me to effortlessly enhance Blender workflows with an array of dynamic functions.
   </div>
 </div>
 
