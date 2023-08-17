@@ -13,6 +13,7 @@
 [Kejian Wu]: https://scholar.google.com/citations?user=FXdoGrIAAAAJ
 [Mei Han]: https://joymei.github.io
 [Licheng Zhong]: https://colmar-zlicheng.github.io/
+[Gu Zhang]: https://github.com/blakery-star
 
 <!-- ThinkLab -->
 [ThinkLab]: https://thinklab.sjtu.edu.cn/

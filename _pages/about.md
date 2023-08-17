@@ -19,8 +19,8 @@ Previously, I worked with Prof. [Junchi Yan] at the [SJTU-ReThinkLab].
 {% include_relative mappings.md %}
 
 # 🔥 News
-- *2023.08*: &nbsp;Color-NeuS was released on [GitHub](https://github.com/Colmar-zlicheng/Color-NeuS) and [arXiv](https://arxiv.org/abs/2308.06962).
-- *2023.07*: &nbsp;3D-LLM was released on [GitHub](https://github.com/UMass-Foundation-Model/3D-LLM) and [arXiv](https://arxiv.org/abs/2307.12981).
+- *2023.08*: &nbsp;**Color-NeuS** was released on [GitHub](https://github.com/Colmar-zlicheng/Color-NeuS) and [arXiv](https://arxiv.org/abs/2308.06962).
+- *2023.07*: &nbsp;**3D-LLM** was released on [GitHub](https://github.com/UMass-Foundation-Model/3D-LLM) and [arXiv](https://arxiv.org/abs/2307.12981).
 - *2023.07*: &nbsp;One paper **CHORD** was accepted by [ICCV 2023](https://iccv2023.thecvf.com/).
 - *2023.04*: &nbsp;One paper **IOT-CL** was accepted by [ICML 2023](https://icml.cc/Conferences/2023).
 - *2022.04*: &nbsp;Build the website: [AISJTU.ICU](https://www.aisjtu.icu).
@@ -42,12 +42,28 @@ Previously, I worked with Prof. [Junchi Yan] at the [SJTU-ReThinkLab].
   [arXiv](https://arxiv.org/abs/2307.12981)｜[Project](https://vis-www.cs.umass.edu/3dllm/)｜[Code](https://github.com/UMass-Foundation-Model/3D-LLM)|[![](https://img.shields.io/github/stars/UMass-Foundation-Model/3D-LLM?style=social&label=Stars)](https://github.com/UMass-Foundation-Model/3D-LLM/stargazers)
   </div>
 </div>
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">REOT</div>
+      <img src='images/reot.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **Relative Entropic Optimal Transport: a (Prior-aware) Matching Perspective to (Unbalanced) Classification.**
+
+  [Liangliang Shi], **Haoyu Zhen**, [Gu Zhang], [Junchi Yan]
+
+  (In submission)
+
+  </div>
+</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">arXiv</div>
-      <img src='images/color_neus.mp4' alt="sym" width="90%">
+      <div class="badge">Color-NeuS</div>
+      <img src='images/color_neus.mp4' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -86,17 +102,13 @@ Previously, I worked with Prof. [Junchi Yan] at the [SJTU-ReThinkLab].
   <div class='paper-box-text' markdown="1">
   **Understanding and Generalizing Contrastive Learning from the Inverse Optimal Transport Perspective**
 
-  [Liangliang Shi], Gu Zhang, **Haoyu Zhen**, Jintao Fan, [Junchi Yan]
+  [Liangliang Shi], [Gu Zhang], **Haoyu Zhen**, Jintao Fan, [Junchi Yan]
 
   [OpenReview](https://openreview.net/forum?id=DBlWCsOy94)｜[Slides](pdf/iot-cl.pdf)
 
   **ICML 2023**
   </div>
 </div>
-
-- **Relative Entropic Optimal Transport: a (Prior-aware) Matching Perspective to (Unbalanced) Classification.** [Liangliang Shi], **Haoyu Zhen**, Gu Zhang, [Junchi Yan]
-
----
 
 # 👨‍💻 Undergraduate Works
 
