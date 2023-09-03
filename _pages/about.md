@@ -254,7 +254,10 @@ PyBlend, a project I've passionately contributed to, is a Python library that pr
     	<b>
       	<div class='tooltip'>badminton team of SEIEE
        	 <span class='tooltiptext'>
-       	   <img src='images/badminton.JPG' alt='sym' />
+       	   <img src='images/badminton.JPG' alt='sym' /><br>
+           <div style='font-size: 12px; font-weight: normal'>
+           Nov. 2021, School of Electronic Information and Electrical Engineering vs. School of Mechanical Engineering Badminton Match.
+            </div>
        	 </span>
       	</div>
     	</b>
@@ -264,7 +267,10 @@ PyBlend, a project I've passionately contributed to, is a Python library that pr
       <b>
         <div class='tooltip'>SJTU frisbee team.
           <span class='tooltiptext'>
-            <img src='images/frisbee.jpg' alt='sym' />
+            <img src='images/frisbee.jpg' alt='sym' /><br>
+            <div style='font-size: 12px; font-weight: normal'>
+            Oct. 11, 2022, taken at the frisbee pickup game, Zhiyuan Football Field, SJTU.
+            </div>
           </span>
         </div>
       </b>
@@ -279,7 +285,10 @@ PyBlend, a project I've passionately contributed to, is a Python library that pr
     	<b>
       	<div class='tooltip'>Build LEGO Paris city
        	 <span class='tooltiptext'>
-       	   <img src='images/paris.JPG' alt='sym' />
+       	   <img src='images/paris.JPG' alt='sym' /><br>
+            <div style='font-size: 12px; font-weight: normal'>
+            Oct. 17, 2022, We built the LEGO Paris city together.
+            </div>
        	 </span>
       	</div>
     	</b>

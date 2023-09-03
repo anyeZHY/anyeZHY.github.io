@@ -8,21 +8,26 @@
 }
 
 @media screen and (min-width: 850px) {
-    .tooltip .tooltiptext {
+    .tooltip:hover .tooltiptext {  /* Tooltip on hover */
         visibility: hidden;
         width: 240px;
         text-align: center;
-        /* Position the tooltip */
         position: absolute;
-        bottom: 120%;
-        left: 40%;
-        z-index: 1;
-        display: block;
+        bottom: 150%;
+        left: 10%;
+        margin-left: -55px;
+        z-index: 100000;
+        display:block;
+        color: black;
+        background: #FFFFFF;
+        border-radius: 6px;
+        box-shadow: 4px 4px 7px hsl(196, 61%, 60%);
+        overflow: visible;
     }
 }
 
 @media screen and (min-width: 850px) {
-    .tooltip:hover .tooltiptext {
+    .tooltip:hover .tooltiptext {  /* Tooltip on hover */
         visibility: visible;
     }
 }
