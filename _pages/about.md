@@ -116,7 +116,7 @@ Previously, I worked with Prof. [Junchi Yan] at the [SJTU-ReThinkLab].
   <div class='paper-box-image'>
   <div>
   <div class="badge">PyBlend</div>
-  <img src='https://raw.githubusercontent.com/anyeZHY/PyBlend/main/docs/teaser.gif' alt="sym" width="100%"></div>
+  <img src='images/pyblend.gif' alt="sym" width="100%"></div>
   </div>
   <div class='paper-box-text' markdown="1">
   [PyBlend: A Python Library for Blender](https://anyezhy.github.io/PyBlend/)
@@ -252,7 +252,7 @@ PyBlend, a project I've passionately contributed to, is a Python library that pr
     I am an active athlete who plays for the
     <grow>
     	<b>
-      	<div class='tooltip'>badminton team of SEIEE
+      	<div class='tooltip'>Badminton Team of SEIEE
        	 <span class='tooltiptext'>
        	   <img src='images/badminton.JPG' alt='sym' /><br>
            <div style='font-size: 12px; font-weight: normal'>
