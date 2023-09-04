@@ -31,7 +31,7 @@ Previously, I worked with Prof. [Junchi Yan] at the [SJTU-ReThinkLab].
   <div class='paper-box-image'>
     <div>
       <div class="badge">3D-LLM</div>
-      <img src='image/3dllm.gif' alt="sym" width="100%">
+      <img src='images/3dllm.gif' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
