@@ -26,6 +26,25 @@
     }
 }
 
+@media screen {
+    .tooltip:active .tooltiptext {  /* Tooltip on hover */
+        visibility: visible;
+        width: 240px;
+        text-align: center;
+        position: absolute;
+        bottom: 150%;
+        left: 10%;
+        margin-left: -55px;
+        z-index: 100000;
+        display:block;
+        color: black;
+        background: #FFFFFF;
+        border-radius: 6px;
+        box-shadow: 4px 4px 7px hsl(196, 61%, 60%);
+        overflow: visible;
+    }
+}
+
 grow {
     text-decoration: none;
     color: #18272F;
@@ -47,7 +66,13 @@ grow::before {
     text-decoration: none
 }
 
-grow:hover::before, grow:active::before {
+grow:hover::before {
+    bottom: 4px;
+    height: 70%;
+    transition: 0.25s
+}
+
+grow:active::before {
     bottom: 4px;
     height: 70%;
     transition: 0.25s
@@ -63,6 +88,16 @@ mark {
 }
 
 .hover-mark:hover {
+    -webkit-animation: 0.1s highlight 1.5s 1 normal forwards;
+    animation: 1.5s highlight 0.5s 1 normal forwards;
+    background-color: none;
+    background: linear-gradient(90deg, rgba(83,178,213,0.3) 50%, rgba(255,255,255,0) 50%);
+    background-size: 200% 100%;
+    background-position: 100% 0;
+    display: inline-block;
+}
+
+.hover-mark:active {
     -webkit-animation: 0.1s highlight 1.5s 1 normal forwards;
     animation: 1.5s highlight 0.5s 1 normal forwards;
     background-color: none;
