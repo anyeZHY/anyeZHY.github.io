@@ -31,7 +31,7 @@ Previously, I worked with Prof. [Junchi Yan] at the [SJTU-ReThinkLab].
   <div class='paper-box-image'>
     <div>
       <div class="badge">3D-LLM</div>
-      <img src='https://vis-www.cs.umass.edu/3dllm/data/new_chat_demo.mp4' alt="sym" width="100%">
+      <img src='image/3dllm.gif' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -63,7 +63,7 @@ Previously, I worked with Prof. [Junchi Yan] at the [SJTU-ReThinkLab].
   <div class='paper-box-image'>
     <div>
       <div class="badge">Color-NeuS</div>
-      <img src='images/color_neus.mp4' alt="sym" width="100%">
+      <img src='images/color_neus.gif' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
