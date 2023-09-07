@@ -121,9 +121,9 @@ Previously, I worked with Prof. [Junchi Yan] at the [SJTU-ReThinkLab].
   <div class='paper-box-text' markdown="1">
   [PyBlend: A Python Library for Blender](https://anyezhy.github.io/PyBlend/)
 
-  `pip install pyblend`｜[**Github**](https://github.com/anyeZHY/PyBlend)｜[![](https://img.shields.io/github/stars/anyeZHY/PyBlend?style=social&label=Stars)](https://github.com/anyeZHY/PyBlend/stargazers)
+  &zwj;<hover-mark><span class="red">pip</span> install pyblend</hover-mark>｜[PyPI](https://pypi.org/project/pyblend/)｜[**Github**](https://github.com/anyeZHY/PyBlend)｜[![](https://img.shields.io/github/stars/anyeZHY/PyBlend?style=social&label=Stars)](https://github.com/anyeZHY/PyBlend/stargazers)
 
-PyBlend, a project I've passionately contributed to, is a Python library that provides a high-level interface for Blender scripting. It empowers artists and developers like me to effortlessly enhance Blender workflows with an array of dynamic functions.
+  PyBlend, a project I've passionately contributed to, is a Python library that provides a high-level interface for Blender scripting. It empowers artists and developers like me to effortlessly enhance Blender workflows with an array of dynamic functions.
   </div>
 </div>
 
@@ -230,10 +230,10 @@ PyBlend, a project I've passionately contributed to, is a Python library that pr
 <ul>
   <li>
   My best friend: <a href='https://sylvansun.github.io'>Yilin Sun</a>.
-  In our sophomore year, we teamed up to finish our first project, 
+  In our sophomore year, we teamed up to finish our first project in AI261:
   <grow>
     <b>
-      <div class='tooltip'>AI261 Project: GEFF - Gaze Estimation with Fused Features.
+      <div class='tooltip'>GEFF
         <span class='tooltiptext'>
           <img src='images/geff.png' alt='sym' /><br>
           <div style='font-size: 12px; font-weight: normal'>
@@ -243,6 +243,7 @@ PyBlend, a project I've passionately contributed to, is a Python library that pr
       </div>
     </b>
   </grow>
+  - Gaze Estimation with Fused Features.
   </li>
   <li>
     I am an active athlete who plays for the
