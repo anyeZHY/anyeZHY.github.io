@@ -144,19 +144,6 @@ PyBlend, a project I've passionately contributed to, is a Python library that pr
   </div>
 </div>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-  <div>
-    <div class="badge">AI2611 Project</div>
-    <img src='images/geff.png' alt="sym" width="100%"></div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-  [GEFF: Gaze Estimation with the Fused Features](https://anyezhy.github.io/pdf/geff.pdf)
-
-  **Haoyu Zhen**, Yilin Sun
-  </div>
-</div>
-
 # 🎖 Honors and Awards
 
 - *2021.11* Huawei "Smart Base" Scholarship.
@@ -243,6 +230,19 @@ PyBlend, a project I've passionately contributed to, is a Python library that pr
 <ul>
   <li>
   My best friend: <a href='https://sylvansun.github.io'>Yilin Sun</a>.
+  In our sophomore year, we teamed up to finish our first project, 
+  <grow>
+    <b>
+      <div class='tooltip'>AI261 Project: GEFF - Gaze Estimation with Fused Features.
+        <span class='tooltiptext'>
+          <img src='images/geff.png' alt='sym' /><br>
+          <div style='font-size: 12px; font-weight: normal'>
+          We proposed a novel method for extracting gaze features from the face and eyes using the PIXIE model and contrastive learning  (SimCLR) framework
+          </div>
+        </span>
+      </div>
+    </b>
+  </grow>
   </li>
   <li>
     I am an active athlete who plays for the
