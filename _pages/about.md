@@ -121,7 +121,7 @@ Previously, I worked with Prof. [Junchi Yan] at the [SJTU-ReThinkLab].
   <div class='paper-box-text' markdown="1">
   [PyBlend: A Python Library for Blender](https://anyezhy.github.io/PyBlend/)
 
-  [**Github**](https://github.com/anyeZHY/PyBlend)｜[![](https://img.shields.io/github/stars/anyeZHY/PyBlend?style=social&label=Stars)](https://github.com/anyeZHY/PyBlend/stargazers)
+  `pip install pyblend`｜[**Github**](https://github.com/anyeZHY/PyBlend)｜[![](https://img.shields.io/github/stars/anyeZHY/PyBlend?style=social&label=Stars)](https://github.com/anyeZHY/PyBlend/stargazers)
 
 PyBlend, a project I've passionately contributed to, is a Python library that provides a high-level interface for Blender scripting. It empowers artists and developers like me to effortlessly enhance Blender workflows with an array of dynamic functions.
   </div>
@@ -154,10 +154,6 @@ PyBlend, a project I've passionately contributed to, is a Python library that pr
   [GEFF: Gaze Estimation with the Fused Features](https://anyezhy.github.io/pdf/geff.pdf)
 
   **Haoyu Zhen**, Yilin Sun
-
-  [**Project**](https://github.com/anyeZHY/GEFF)｜[Paper](https://anyezhy.github.io/pdf/geff.pdf)
-
-  During my sophomore year, I spearheaded the implementation of a deep learning method for gaze estimation using the [PIXIE](https://github.com/YadiraF/PIXIE) [3DV 2021] model and [SimCLR](https://github.com/google-research/simclr) [ICML 2020] framework. In addition, I proposed a novel method for extracting gaze features from the face and eyes using contrastive learning.
   </div>
 </div>
 
