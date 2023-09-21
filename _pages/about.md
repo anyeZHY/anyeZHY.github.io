@@ -19,7 +19,7 @@ Previously, I worked with Prof. [Junchi Yan] at the [SJTU-ReThinkLab].
 {% include_relative mappings.md %}
 
 # 🔥 News
-- *2023.09*: &nbsp;2 papers were accepted by [NeurIPS 2023](https://nips.cc/Conferences/2023). One <mark>spotlight</mark> and one poster.
+- *2023.09*: &nbsp;Two papers were accepted by [NeurIPS 2023](https://nips.cc/Conferences/2023). One <mark>spotlight</mark> and one poster.
 - *2023.08*: &nbsp;**Color-NeuS** was released on [GitHub](https://github.com/Colmar-zlicheng/Color-NeuS) and [arXiv](https://arxiv.org/abs/2308.06962).
 - *2023.07*: &nbsp;**3D-LLM** was released on [GitHub](https://github.com/UMass-Foundation-Model/3D-LLM) and [arXiv](https://arxiv.org/abs/2307.12981).
 - *2023.07*: &nbsp;One paper **CHORD** was accepted by [ICCV 2023](https://iccv2023.thecvf.com/).
