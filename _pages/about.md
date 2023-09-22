@@ -41,6 +41,8 @@ Previously, I worked with Prof. [Junchi Yan] at the [SJTU-ReThinkLab].
   [Yining Hong], **Haoyu Zhen**, [Peihao Chen], [Shuhong Zheng], [Yilun Du], [Zhenfang Chen], [Chuang Gan]
 
   [arXiv](https://arxiv.org/abs/2307.12981)｜[Project](https://vis-www.cs.umass.edu/3dllm/)｜[Code](https://github.com/UMass-Foundation-Model/3D-LLM)|[![](https://img.shields.io/github/stars/UMass-Foundation-Model/3D-LLM?style=social&label=Stars)](https://github.com/UMass-Foundation-Model/3D-LLM/stargazers)
+
+  <hover-mark>NeurIPS 2023 (Spotlight)</hover-mark>
   </div>
 </div>
 <div class='paper-box'>
@@ -55,8 +57,7 @@ Previously, I worked with Prof. [Junchi Yan] at the [SJTU-ReThinkLab].
 
   [Liangliang Shi], **Haoyu Zhen**, [Gu Zhang], [Junchi Yan]
 
-  (In submission)
-
+  **NeurIPS 2023**
   </div>
 </div>
 
@@ -88,6 +89,8 @@ Previously, I worked with Prof. [Junchi Yan] at the [SJTU-ReThinkLab].
   **CHORD: Category-level in-Hand Object Reconstruction via Shape Deformation**
 
   [Kailin Li], [Lixin Yang], **Haoyu Zhen**, [Zenan Lin](), [Xinyu Zhan], [Licheng Zhong], [Jian Xu], [Kejian Wu], [Cewu Lu]
+
+  [arXiv](https://arxiv.org/abs/2308.10574)｜[Project](https://kailinli.github.io/CHORD/)
 
   **ICCV 2023**
   </div>
