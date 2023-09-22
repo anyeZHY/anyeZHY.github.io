@@ -40,11 +40,12 @@ Previously, I worked with Prof. [Junchi Yan] at the [SJTU-ReThinkLab].
 
   [Yining Hong], **Haoyu Zhen**, [Peihao Chen], [Shuhong Zheng], [Yilun Du], [Zhenfang Chen], [Chuang Gan]
 
-  [arXiv](https://arxiv.org/abs/2307.12981)｜[Project](https://vis-www.cs.umass.edu/3dllm/)｜[Code](https://github.com/UMass-Foundation-Model/3D-LLM)|[![](https://img.shields.io/github/stars/UMass-Foundation-Model/3D-LLM?style=social&label=Stars)](https://github.com/UMass-Foundation-Model/3D-LLM/stargazers)
+  [arXiv](https://arxiv.org/abs/2307.12981)｜[Project](https://vis-www.cs.umass.edu/3dllm/)｜[Code](https://github.com/UMass-Foundation-Model/3D-LLM)｜[![](https://img.shields.io/github/stars/UMass-Foundation-Model/3D-LLM?style=social&label=Stars)](https://github.com/UMass-Foundation-Model/3D-LLM/stargazers)
 
-  <hover-mark>NeurIPS 2023 (Spotlight)</hover-mark>
+  <b><hover-mark>NeruIPS 2023 <span class="red">(Spotlight)</span></hover-mark></b>
   </div>
 </div>
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -300,4 +301,4 @@ Previously, I worked with Prof. [Junchi Yan] at the [SJTU-ReThinkLab].
   </li>
 </ul>
 ---
-<center><script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=320&t=n&d=bf1dAkPMHwMjz7l6SO9Kwfw6KGOSR6zdKM549HBCScM&co=ffffff&cmo=0095ff&cmn=ff5353&ct=808080'></script></center>
+{% include_relative visitmap.md %}
