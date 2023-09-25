@@ -13,7 +13,7 @@ I am currently an undergraduate at [Shanghai Jiao Tong University] (SJTU), major
 
 I am also a visiting student/visitor at [Massachusetts Institute of Technology] and [MIT-IBM Watson AI Lab], where I will be working under the guidance of Prof. [Josh Tenenbaum] and Prof. [Chuang Gan].
 
-In addition, as a research assistant at the [Machine Vision and Intelligence Group] (MVIG), I am under the supervision of Prof. [Cewu Lu].
+In addition, as a research assistant at the [Machine Vision and Intelligence Group] (MVIG), I am under the supervision of Prof. [Cewu Lu] and Dr. [Lixin Yang].
 Previously, I worked with Prof. [Junchi Yan] at the [SJTU-ReThinkLab].
 
 {% include_relative mappings.md %}
