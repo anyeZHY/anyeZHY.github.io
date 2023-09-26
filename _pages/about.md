@@ -42,7 +42,7 @@ Previously, I worked with Prof. [Junchi Yan] at the [SJTU-ReThinkLab].
 
   [arXiv](https://arxiv.org/abs/2307.12981)｜[Project](https://vis-www.cs.umass.edu/3dllm/)｜[Code](https://github.com/UMass-Foundation-Model/3D-LLM)｜[![](https://img.shields.io/github/stars/UMass-Foundation-Model/3D-LLM?style=social&label=Stars)](https://github.com/UMass-Foundation-Model/3D-LLM/stargazers)
 
-  <b><hover-mark>NeruIPS 2023 <span class="red">(Spotlight)</span></hover-mark></b>
+  <b><hover-mark>NeurIPS 2023 <span class="red">(Spotlight)</span></hover-mark></b>
   </div>
 </div>
 
