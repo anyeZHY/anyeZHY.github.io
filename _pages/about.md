@@ -185,7 +185,7 @@ Previously, I worked with Prof. [Junchi Yan] at the [SJTU-ReThinkLab].
   <div class='paper-box-text' markdown="1">
   [CoCoSci Lab], [Massachusetts Institute of Technology] and [MIT-IBM Watson AI Lab](https://mitibmwatsonailab.mit.edu/)
 
-  Visiting Student, *2023.03 - (now)*
+  Visiting Student, *2023.03 - 2023.12*
 
   Advisor: [Josh Tenenbaum], [Chuang Gan]
   </div>
