@@ -9,16 +9,14 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-I am currently an undergraduate at [Shanghai Jiao Tong University] (SJTU), majoring in Artificial Intelligence.
+I am an incoming PhD student at [UMass Amherst], supervised by Prof. [Chuang Gan]. Currently, I'm a senior undergraduate at [Shanghai Jiao Tong University] (SJTU), where I work closely with Prof. [Cewu Lu] and Dr. [Lixin Yang] from the [Machine Vision and Intelligence Group] (MVIG).
 
-I am also a visiting student/visitor at [Massachusetts Institute of Technology] and [MIT-IBM Watson AI Lab], where I will be working under the guidance of Prof. [Josh Tenenbaum] and Prof. [Chuang Gan].
-
-In addition, as a research assistant at the [Machine Vision and Intelligence Group] (MVIG), I am under the supervision of Prof. [Cewu Lu] and Dr. [Lixin Yang].
-Previously, I worked with Prof. [Junchi Yan] at the [SJTU-ReThinkLab].
+Previously, I am a visiting student at the Massachusetts Institute of Technology and the MIT-IBM Watson AI Lab, guided by Prof. [Josh Tenenbaum]. In addition, I have worked with Prof. [Junchi Yan] at the [SJTU-ReThinkLab].
 
 {% include_relative mappings.md %}
 
 # 🔥 News
+- *2024.03*: &nbsp;[Introduce 3D-VLA](https://vis-www.cs.umass.edu/3dvla/).
 - *2023.10*: &nbsp;One paper was accepted by [3DV 2024](https://3dvconf.github.io/).
 - *2023.09*: &nbsp;Two papers were accepted by [NeurIPS 2023](https://nips.cc/Conferences/2023). One <mark>spotlight</mark> and one poster.
 - *2023.08*: &nbsp;**Color-NeuS** was released on [GitHub](https://github.com/Colmar-zlicheng/Color-NeuS) and [arXiv](https://arxiv.org/abs/2308.06962).
@@ -28,6 +26,24 @@ Previously, I worked with Prof. [Junchi Yan] at the [SJTU-ReThinkLab].
 - *2022.04*: &nbsp;Build the website: [AISJTU.ICU](https://www.aisjtu.icu).
 
 # 📖 Publications
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">arXiv</div>
+      <video autoplay loop muted playsinline webkit-playsinline>
+        <source src="images/3dvla.mp4" type="video/mp4">
+      </video>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **3D-VLA: 3D Vision-Language-Action Generative World Model**
+
+  Haoyu Zhen, [Xiaowen Qiu], [Peihao Chen], [Jincheng Yang], [Xin Yan], [Yilun Du], [Yining Hong], [Chuang Gan]
+
+  [arXiv](https://arxiv.org/abs/2403.09631)｜[Project](https://vis-www.cs.umass.edu/3dvla/)｜[Code](https://github.com/UMass-Foundation-Model/3D-VLA)｜[![](https://img.shields.io/github/stars/UMass-Foundation-Model/3D-VLA?style=social&label=Stars)](https://github.com/UMass-Foundation-Model/3D-VLA/stargazers)
+  </div>
+</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -153,8 +169,9 @@ Previously, I worked with Prof. [Junchi Yan] at the [SJTU-ReThinkLab].
 
 # 🎖 Honors and Awards
 
+- *2023.12* Rong Chang Scholarship of SJTU (10 recipients, 30000¥).
+- *2021/2022/2023.11* Academic Excellence Scholarship of SJTU (top 10%).
 - *2021.11* Huawei "Smart Base" Scholarship.
-- *2021.11* Academic Excellence Scholarship of SJTU (top 10%).
 - *2019.10* The first prize of the 36th CPHO semi-finals, Beijing Division (Rank: 17, top 1%).
 
 # 📖 Educations
@@ -176,8 +193,6 @@ Previously, I worked with Prof. [Junchi Yan] at the [SJTU-ReThinkLab].
       </li>
     </ul>
   </details>
-
-- *2014.09 - 2020.06*, Class of Physics Olympiad, [Beijing National Day School](http://www.bnds.cn/en/).
 
 # 🖥️ Experiences
 
@@ -235,6 +250,8 @@ Previously, I worked with Prof. [Junchi Yan] at the [SJTU-ReThinkLab].
 # 🍫 Life
 
 <ul>
+  <li>
+  I spent a wonderful time at the [Beijing National Day School](http://www.bnds.cn/en/) from 2014 to 2020. I was a member of the Class of Physics Olympiad.
   <li>
   My best friend: <a href='https://sylvansun.github.io'>Yilin Sun</a>.
   In our sophomore year, we teamed up to finish our first project in AI2611 Machine Learning:
