@@ -31,7 +31,7 @@ Previously, I am a visiting student at the Massachusetts Institute of Technology
   <div class='paper-box-image'>
     <div>
       <div class="badge">arXiv</div>
-      <video autoplay loop muted playsinline webkit-playsinline>
+      <video autoplay loop muted playsinline webkit-playsinline width="100%">
         <source src="images/3dvla.mp4" type="video/mp4">
       </video>
     </div>
