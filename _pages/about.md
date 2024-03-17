@@ -198,7 +198,7 @@ Previously, I am a visiting student at the Massachusetts Institute of Technology
 
 <div class='paper-box-right'>
   <div class='paper-box-text' markdown="1">
-  Meshy, Taichi
+  Meshy, Taichi Graphics
 
   Intern, *2024.02 - (now)*
 
@@ -269,6 +269,7 @@ Previously, I am a visiting student at the Massachusetts Institute of Technology
 <ul>
   <li>
   I spent a wonderful time at the [Beijing National Day School](http://www.bnds.cn/en/) from 2014 to 2020. I was a member of the Class of Physics Olympiad.
+  </li>
   <li>
   My best friend: <a href='https://sylvansun.github.io'>Yilin Sun</a>.
   In our sophomore year, we teamed up to finish our first project in AI2611 Machine Learning:
