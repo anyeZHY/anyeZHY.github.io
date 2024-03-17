@@ -198,6 +198,23 @@ Previously, I am a visiting student at the Massachusetts Institute of Technology
 
 <div class='paper-box-right'>
   <div class='paper-box-text' markdown="1">
+  Meshy, Taichi
+
+  Intern, *2024.02 - (now)*
+
+  Host: [Tiantian Liu]
+  </div>
+  <div class='paper-box-image'>
+    <div>
+      <a href='https://www.meshy.ai/'>
+      <img src='images/meshy.png' alt="sym" width="100px" style="padding: 10px">
+      </a>
+    </div>
+  </div>
+</div>
+
+<div class='paper-box-right'>
+  <div class='paper-box-text' markdown="1">
   [CoCoSci Lab], [Massachusetts Institute of Technology] and [MIT-IBM Watson AI Lab](https://mitibmwatsonailab.mit.edu/)
 
   Visiting Student, *2023.03 - 2023.12*
