@@ -268,7 +268,7 @@ Previously, I am a visiting student at the Massachusetts Institute of Technology
 
 <ul>
   <li>
-  I spent a wonderful time at the [Beijing National Day School](http://www.bnds.cn/en/) from 2014 to 2020. I was a member of the Class of Physics Olympiad.
+  I spent a wonderful time at the <a href="http://www.bnds.cn/en/">Beijing National Day School</a> from 2014 to 2020. I was a member of the Class of Physics Olympiad.
   </li>
   <li>
   My best friend: <a href='https://sylvansun.github.io'>Yilin Sun</a>.
