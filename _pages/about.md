@@ -82,7 +82,9 @@ Previously, I am a visiting student at the Massachusetts Institute of Technology
   <div class='paper-box-image'>
     <div>
       <div class="badge">3DV 2024</div>
-      <img src='images/color_neus.gif' alt="sym" width="100%">
+      <video autoplay loop muted playsinline webkit-playsinline width="100%">
+        <source src="images/color_neus.mp4" type="video/mp4">
+      </video>
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
