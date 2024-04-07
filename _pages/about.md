@@ -17,10 +17,9 @@ Previously, I am a visiting student at the Massachusetts Institute of Technology
 
 # 🔥 News
 - *2024.03*: &nbsp;[Introduce 3D-VLA](https://vis-www.cs.umass.edu/3dvla/).
-- *2023.10*: &nbsp;One paper was accepted by [3DV 2024](https://3dvconf.github.io/).
+- *2023.10*: &nbsp;One paper **Color-NeuS** was accepted by [3DV 2024](https://3dvconf.github.io/).
 - *2023.09*: &nbsp;Two papers were accepted by [NeurIPS 2023](https://nips.cc/Conferences/2023). One <mark>spotlight</mark> and one poster.
-- *2023.08*: &nbsp;**Color-NeuS** was released on [GitHub](https://github.com/Colmar-zlicheng/Color-NeuS) and [arXiv](https://arxiv.org/abs/2308.06962).
-- *2023.07*: &nbsp;**3D-LLM** was released on [GitHub](https://github.com/UMass-Foundation-Model/3D-LLM) and [arXiv](https://arxiv.org/abs/2307.12981).
+- *2023.07*: &nbsp;[Introduce 3D-LLM](https://vis-www.cs.umass.edu/3dllm/).
 - *2023.07*: &nbsp;One paper **CHORD** was accepted by [ICCV 2023](https://iccv2023.thecvf.com/).
 - *2023.04*: &nbsp;One paper **IOT-CL** was accepted by [ICML 2023](https://icml.cc/Conferences/2023).
 - *2022.04*: &nbsp;Build the website: [AISJTU.ICU](https://www.aisjtu.icu).
