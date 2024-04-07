@@ -48,7 +48,9 @@ Previously, I am a visiting student at the Massachusetts Institute of Technology
   <div class='paper-box-image'>
     <div>
       <div class="badge">NeurIPS 2023</div>
-      <img src='images/3dllm.gif' alt="sym" width="100%">
+      <video autoplay loop muted playsinline webkit-playsinline width="100%">
+        <source src="images/3dllm.mp4" type="video/mp4">
+      </video>
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
