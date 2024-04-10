@@ -322,23 +322,6 @@ Previously, I am a visiting student at the Massachusetts Institute of Technology
   <li>
     I am a fan of DC movies, as well as the TV series Rick & Morty, Breaking Bad, and Better Call Saul.
   </li>
-  <li>
-    <grow>
-    	<b>
-      	<div class='tooltip'>Build LEGO Paris city
-       	 <span class='tooltiptext'>
-       	   <img src='images/paris.JPG' alt='sym' /><br>
-            <div style='font-size: 12px; font-weight: normal'>
-            Oct. 17, 2022, We built the LEGO Paris city together.
-            </div>
-       	 </span>
-      	</div>
-    	</b>
-    </grow>
-    ✨
-    <a href='https://en.wikipedia.org/wiki/Casablanca_(film)'>We will always have Paris (2022.10)</a>
-    🇫🇷
-  </li>
 </ul>
 ---
 {% include_relative visitmap.md %}
