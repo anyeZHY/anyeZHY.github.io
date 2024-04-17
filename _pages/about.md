@@ -16,6 +16,7 @@ Previously, I am a visiting student at the Massachusetts Institute of Technology
 {% include_relative mappings.md %}
 
 # 🔥 News
+- *2024.04*: &nbsp;I will give a talk at [OpenDriveLab](https://opendrivelab.com/).
 - *2024.03*: &nbsp;[Introduce 3D-VLA](https://vis-www.cs.umass.edu/3dvla/).
 - *2023.10*: &nbsp;One paper **Color-NeuS** was accepted by [3DV 2024](https://3dvconf.github.io/).
 - *2023.09*: &nbsp;Two papers were accepted by [NeurIPS 2023](https://nips.cc/Conferences/2023). One <mark>spotlight</mark> and one poster.
