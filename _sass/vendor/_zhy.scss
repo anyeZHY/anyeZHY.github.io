@@ -1,14 +1,14 @@
-.mytooltip {
+.tooltip {
     position: relative;
     display: inline-block;
 }
 
-.mytooltip .mytooltiptext {
+.tooltip .tooltiptext {
     display: none;
 }
 
 @media screen {
-    .mytooltip:hover .mytooltiptext {  /* Tooltip on hover */
+    .tooltip:hover .tooltiptext {  /* Tooltip on hover */
         visibility: visible;
         width: 240px;
         text-align: center;
@@ -27,7 +27,7 @@
 }
 
 @media screen {
-    .mytooltip:active .mytooltiptext {  /* Tooltip on hover */
+    .tooltip:active .tooltiptext {  /* Tooltip on hover */
         visibility: visible;
         width: 240px;
         text-align: center;

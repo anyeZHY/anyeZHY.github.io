@@ -280,8 +280,8 @@ Previously, I am a visiting student at the Massachusetts Institute of Technology
   In our sophomore year, we teamed up to finish our first project in AI2611 Machine Learning:
   <grow>
     <b>
-      <div class='mytooltip'>GEFF
-        <span class='mytooltiptext'>
+      <div class='tooltip'>GEFF
+        <span class='tooltiptext'>
           <img src='images/geff.png' alt='sym' /><br>
           <div style='font-size: 12px; font-weight: normal'>
           We proposed a novel method for extracting gaze features from the face and eyes using the PIXIE model and contrastive learning  (SimCLR) framework
@@ -296,8 +296,8 @@ Previously, I am a visiting student at the Massachusetts Institute of Technology
     I am an active athlete who plays for the
     <grow>
     	<b>
-      	<div class='mytooltip'>Badminton Team of SEIEE
-       	 <span class='mytooltiptext'>
+      	<div class='tooltip'>Badminton Team of SEIEE
+       	 <span class='tooltiptext'>
        	   <img src='images/badminton.JPG' alt='sym' /><br>
            <div style='font-size: 12px; font-weight: normal'>
            Nov. 2021, School of Electronic Information and Electrical Engineering vs. School of Mechanical Engineering Badminton Match.
@@ -309,8 +309,8 @@ Previously, I am a visiting student at the Massachusetts Institute of Technology
     and the 
     <grow>
       <b>
-        <div class='mytooltip'>SJTU frisbee team.
-          <span class='mytooltiptext'>
+        <div class='tooltip'>SJTU frisbee team.
+          <span class='tooltiptext'>
             <img src='images/frisbee.jpg' alt='sym' /><br>
             <div style='font-size: 12px; font-weight: normal'>
             Oct. 11, 2022, taken at the frisbee pickup game, Zhiyuan Football Field, SJTU.
