@@ -148,7 +148,7 @@ Previously, I am a visiting student at the Massachusetts Institute of Technology
   <div class='paper-box-text' markdown="1">
   [PyBlend: A Python Library for Blender](https://anyezhy.github.io/PyBlend/)
 
-  &zwj;<mark><span class="red">pip</span> install pyblend</mark>｜[PyPI](https://pypi.org/project/pyblend/)｜[**Github**](https://github.com/anyeZHY/PyBlend)｜[![](https://img.shields.io/github/stars/anyeZHY/PyBlend?style=social&label=Stars)](https://github.com/anyeZHY/PyBlend/stargazers)
+  &zwj;<mark><span class="red">pip</span> install pyblend</mark>｜[PyPI](https://pypi.org/project/pyblend/)｜[**Github**](https://github.com/anyeZHY/PyBlend)｜[Gallery](gallery.html)｜[![](https://img.shields.io/github/stars/anyeZHY/PyBlend?style=social&label=Stars)](https://github.com/anyeZHY/PyBlend/stargazers)
 
   PyBlend, a project I've passionately contributed to, is a Python library that provides a high-level interface for Blender scripting. It empowers artists and developers like me to effortlessly enhance Blender workflows with an array of dynamic functions.
   </div>
@@ -178,11 +178,12 @@ Previously, I am a visiting student at the Massachusetts Institute of Technology
 - *2021.11* Huawei "Smart Base" Scholarship.
 - *2019.10* The first prize of the 36th CPHO semi-finals, Beijing Division (Rank: 17, top 1%).
 
-# 📖 Educations
+# 📖 Education
+
+- *2023.06 - 2023.12*, Visiting Student, Massachusetts Institute of Technology.
 
 - *2020.09 - (now)*, Undergraduate, Artificial Intelligence, Shanghai Jiao Tong University. GPA: 92.80/100, 4.03/4.3 (Rank: 4/88).
-
-  <details style='padding: 10px; border-radius:5px 30px 30px 5px; border-width: 1px;'>
+  <details style='padding: 0px 10px; border-radius:5px 30px 30px 5px; border-width: 1px;'>
     <summary>Detailed Academic Performance
       <a href="https://github.com/anyeZHY/SJTU-Course-Stack">
         [Implementation and Lecture Notes]
@@ -198,7 +199,7 @@ Previously, I am a visiting student at the Massachusetts Institute of Technology
     </ul>
   </details>
 
-# 🖥️ Experiences
+# 🖥️ Experience
 
 <div class='paper-box-right'>
   <div class='paper-box-text' markdown="1">
@@ -279,7 +280,7 @@ Previously, I am a visiting student at the Massachusetts Institute of Technology
   In our sophomore year, we teamed up to finish our first project in AI2611 Machine Learning:
   <grow>
     <b>
-      <div class='tooltip'>GEFF
+      <div class='mytooltip'>GEFF
         <span class='tooltiptext'>
           <img src='images/geff.png' alt='sym' /><br>
           <div style='font-size: 12px; font-weight: normal'>
@@ -295,7 +296,7 @@ Previously, I am a visiting student at the Massachusetts Institute of Technology
     I am an active athlete who plays for the
     <grow>
     	<b>
-      	<div class='tooltip'>Badminton Team of SEIEE
+      	<div class='mytooltip'>Badminton Team of SEIEE
        	 <span class='tooltiptext'>
        	   <img src='images/badminton.JPG' alt='sym' /><br>
            <div style='font-size: 12px; font-weight: normal'>
@@ -308,7 +309,7 @@ Previously, I am a visiting student at the Massachusetts Institute of Technology
     and the 
     <grow>
       <b>
-        <div class='tooltip'>SJTU frisbee team.
+        <div class='mytooltip'>SJTU frisbee team.
           <span class='tooltiptext'>
             <img src='images/frisbee.jpg' alt='sym' /><br>
             <div style='font-size: 12px; font-weight: normal'>
