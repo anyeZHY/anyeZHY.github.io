@@ -281,7 +281,7 @@ Previously, I am a visiting student at the Massachusetts Institute of Technology
   <grow>
     <b>
       <div class='mytooltip'>GEFF
-        <span class='tooltiptext'>
+        <span class='mytooltiptext'>
           <img src='images/geff.png' alt='sym' /><br>
           <div style='font-size: 12px; font-weight: normal'>
           We proposed a novel method for extracting gaze features from the face and eyes using the PIXIE model and contrastive learning  (SimCLR) framework
@@ -297,7 +297,7 @@ Previously, I am a visiting student at the Massachusetts Institute of Technology
     <grow>
     	<b>
       	<div class='mytooltip'>Badminton Team of SEIEE
-       	 <span class='tooltiptext'>
+       	 <span class='mytooltiptext'>
        	   <img src='images/badminton.JPG' alt='sym' /><br>
            <div style='font-size: 12px; font-weight: normal'>
            Nov. 2021, School of Electronic Information and Electrical Engineering vs. School of Mechanical Engineering Badminton Match.
@@ -310,7 +310,7 @@ Previously, I am a visiting student at the Massachusetts Institute of Technology
     <grow>
       <b>
         <div class='mytooltip'>SJTU frisbee team.
-          <span class='tooltiptext'>
+          <span class='mytooltiptext'>
             <img src='images/frisbee.jpg' alt='sym' /><br>
             <div style='font-size: 12px; font-weight: normal'>
             Oct. 11, 2022, taken at the frisbee pickup game, Zhiyuan Football Field, SJTU.
