@@ -42,6 +42,8 @@ Previously, I am a visiting student at the Massachusetts Institute of Technology
 
   **Haoyu Zhen**, [Xiaowen Qiu](), [Peihao Chen], [Jincheng Yang], [Xin Yan], [Yilun Du], [Yining Hong], [Chuang Gan]
 
+  **ICML 2024**
+
   [arXiv](https://arxiv.org/abs/2403.09631)｜[Project](https://vis-www.cs.umass.edu/3dvla/)｜[Code](https://github.com/UMass-Foundation-Model/3D-VLA)｜[![](https://img.shields.io/github/stars/UMass-Foundation-Model/3D-VLA?style=social&label=Stars)](https://github.com/UMass-Foundation-Model/3D-VLA/stargazers)
   </div>
 </div>
