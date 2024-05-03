@@ -16,7 +16,8 @@ Previously, I am a visiting student at the Massachusetts Institute of Technology
 {% include_relative mappings.md %}
 
 # 🔥 News
-- *2024.04*: &nbsp;I will give a talk at [OpenDriveLab](https://opendrivelab.com/), Shanghai AI Lab.
+- *2024.05*: &nbsp;3D-VLA is accepted by [ICML 2024](https://icml.cc/Conferences/2024).
+- 2024.04: &nbsp;Give a talk at [OpenDriveLab](https://opendrivelab.com/), Shanghai AI Lab.
 - *2024.03*: &nbsp;[Introduce 3D-VLA](https://vis-www.cs.umass.edu/3dvla/).
 - *2023.10*: &nbsp;One paper **Color-NeuS** was accepted by [3DV 2024](https://3dvconf.github.io/).
 - *2023.09*: &nbsp;Two papers were accepted by [NeurIPS 2023](https://nips.cc/Conferences/2023). One <mark>spotlight</mark> and one poster.
@@ -30,7 +31,7 @@ Previously, I am a visiting student at the Massachusetts Institute of Technology
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">arXiv</div>
+      <div class="badge">ICML 2024</div>
       <video autoplay loop muted playsinline webkit-playsinline width="100%">
         <source src="images/3dvla.mp4" type="video/mp4">
       </video>
