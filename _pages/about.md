@@ -17,7 +17,7 @@ Previously, I am a visiting student at the Massachusetts Institute of Technology
 
 # 🔥 News
 - *2024.05*: &nbsp;One paper **3D-VLA** is accepted by [ICML 2024](https://icml.cc/Conferences/2024).
-- 2024.04: &nbsp;Give a talk at [OpenDriveLab](https://opendrivelab.com/), Shanghai AI Lab.
+- *2024.04*: &nbsp;Give a talk at [OpenDriveLab](https://opendrivelab.com/), Shanghai AI Lab.
 - *2024.03*: &nbsp;[Introduce 3D-VLA](https://vis-www.cs.umass.edu/3dvla/).
 - *2023.10*: &nbsp;One paper **Color-NeuS** is accepted by [3DV 2024](https://3dvconf.github.io/).
 - *2023.09*: &nbsp;Two papers were accepted by [NeurIPS 2023](https://nips.cc/Conferences/2023). One <mark>spotlight</mark> and one poster.
@@ -176,6 +176,7 @@ Previously, I am a visiting student at the Massachusetts Institute of Technology
 
 # 🎖 Honors and Awards
 
+- *2024.04* Outstanding Graduate of Shanghai Jiao Tong University.
 - *2023.12* Rong Chang Scholarship of SJTU (10 recipients, 30000¥).
 - *2021/2022/2023.11* Academic Excellence Scholarship of SJTU (top 10%).
 - *2021.11* Huawei "Smart Base" Scholarship.
