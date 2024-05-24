@@ -15,7 +15,7 @@ Previously, I am a visiting student at the Massachusetts Institute of Technology
 
 {% include_relative mappings.md %}
 
-# 🔥 News
+<!-- # 🔥 News
 - *2024.05*: &nbsp;One paper **3D-VLA** is accepted by [ICML 2024](https://icml.cc/Conferences/2024).
 - *2024.04*: &nbsp;Give a talk at [OpenDriveLab](https://opendrivelab.com/), Shanghai AI Lab.
 - *2024.03*: &nbsp;[Introduce 3D-VLA](https://vis-www.cs.umass.edu/3dvla/).
@@ -24,9 +24,9 @@ Previously, I am a visiting student at the Massachusetts Institute of Technology
 - *2023.07*: &nbsp;[Introduce 3D-LLM](https://vis-www.cs.umass.edu/3dllm/).
 - *2023.07*: &nbsp;One paper **CHORD** is accepted by [ICCV 2023](https://iccv2023.thecvf.com/).
 - *2023.04*: &nbsp;One paper **IOT-CL** is accepted by [ICML 2023](https://icml.cc/Conferences/2023).
-- *2022.04*: &nbsp;Build the website: [AISJTU.ICU](https://www.aisjtu.icu).
+- *2022.04*: &nbsp;Build the website: [AISJTU.ICU](https://www.aisjtu.icu). -->
 
-# 📖 Publications
+# Publications
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -140,7 +140,7 @@ Previously, I am a visiting student at the Massachusetts Institute of Technology
   </div>
 </div>
 
-# 👨‍💻 Undergraduate Works
+# Projects
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -174,7 +174,7 @@ Previously, I am a visiting student at the Massachusetts Institute of Technology
   </div>
 </div>
 
-# 🎖 Honors and Awards
+# Honors and Awards
 
 - *2024.04* Outstanding Graduate of Shanghai Jiao Tong University.
 - *2023.12* Rong Chang Scholarship of SJTU (10 recipients, 30000¥).
@@ -182,7 +182,7 @@ Previously, I am a visiting student at the Massachusetts Institute of Technology
 - *2021.11* Huawei "Smart Base" Scholarship.
 - *2019.10* The first prize of the 36th CPHO semi-finals, Beijing Division (Rank: 17, top 1%).
 
-# 📖 Education
+# Education
 
 - *2023.06 - 2023.12*, Visiting Student, Massachusetts Institute of Technology.
 
@@ -203,7 +203,7 @@ Previously, I am a visiting student at the Massachusetts Institute of Technology
     </ul>
   </details>
 
-# 🖥️ Experience
+# Experience
 
 <div class='paper-box-right'>
   <div class='paper-box-text' markdown="1">
@@ -273,7 +273,7 @@ Previously, I am a visiting student at the Massachusetts Institute of Technology
   </div>
 </div>
 
-# 🍫 Life
+# Life
 
 <ul>
   <li>
