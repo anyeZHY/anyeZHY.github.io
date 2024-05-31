@@ -32,7 +32,7 @@ Previously, I am a visiting student at the Massachusetts Institute of Technology
   <div class='paper-box-image'>
     <div>
       <div class="badge">arXiv</div>
-      <img src='images/rapverse_teaser.png' alt="sym" width="100%">
+      <img src='images/rapverse.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
