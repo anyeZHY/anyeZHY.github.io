@@ -31,6 +31,23 @@ Previously, I am a visiting student at the Massachusetts Institute of Technology
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <div class="badge">arXiv</div>
+      <img src='images/rapverse_teaser.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **RapVerse: Coherent Vocals and Whole-Body Motions Generations from Text**
+
+  [Jiaben Chen], [Xin Yan], [Yihang Chen](), [Siyuan Cen](), [Qinwei Ma](), **Haoyu Zhen**, [Kaizhi Qian], [Lie Lu], [Chuang Gan]
+
+  [arXiv](https://arxiv.org/abs/2405.20336v1)｜[Project](https://vis-www.cs.umass.edu/rapverse/)
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
       <div class="badge">ICML 2024</div>
       <video autoplay loop muted playsinline webkit-playsinline width="100%">
         <source src="images/3dvla.mp4" type="video/mp4">

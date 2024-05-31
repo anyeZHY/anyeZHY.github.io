@@ -16,6 +16,9 @@
 [Zhenfang Chen]: https://zfchenunique.github.io/
 [Jincheng Yang]: https://github.com/Yang-Chincheng
 [Xin Yan]: https://cakeyan.github.io/
+[Jiaben Chen]: https://jiabenchen.github.io
+[Kaizhi Qin]: https://scholar.google.com/citations?user=uEpr4C4AAAAJ
+[Lie Lu]: https://scholar.google.com/citations?user=EEds7hMAAAAJ
 
 <!-- MVIG -->
 [Shanghai Jiao Tong University]: https://en.sjtu.edu.cn
