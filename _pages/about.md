@@ -15,7 +15,7 @@ Previously, I am a visiting student at the Massachusetts Institute of Technology
 
 {% include_relative mappings.md %}
 
-<!-- # 🔥 News
+# News
 - *2024.05*: &nbsp;One paper **3D-VLA** is accepted by [ICML 2024](https://icml.cc/Conferences/2024).
 - *2024.04*: &nbsp;Give a talk at [OpenDriveLab](https://opendrivelab.com/), Shanghai AI Lab.
 - *2024.03*: &nbsp;[Introduce 3D-VLA](https://vis-www.cs.umass.edu/3dvla/).
@@ -24,7 +24,7 @@ Previously, I am a visiting student at the Massachusetts Institute of Technology
 - *2023.07*: &nbsp;[Introduce 3D-LLM](https://vis-www.cs.umass.edu/3dllm/).
 - *2023.07*: &nbsp;One paper **CHORD** is accepted by [ICCV 2023](https://iccv2023.thecvf.com/).
 - *2023.04*: &nbsp;One paper **IOT-CL** is accepted by [ICML 2023](https://icml.cc/Conferences/2023).
-- *2022.04*: &nbsp;Build the website: [AISJTU.ICU](https://www.aisjtu.icu). -->
+- *2022.04*: &nbsp;Build the website: [AISJTU.ICU](https://www.aisjtu.icu).
 
 # Publications
 
