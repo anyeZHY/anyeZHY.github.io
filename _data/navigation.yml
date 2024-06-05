@@ -4,22 +4,22 @@ main:
     url: "/#about-me"
 
   - title: "News"
-    url: "/#-news"
+    url: "/#news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
   - title: "Projects"
-    url: "/#-undergraduate-works"
+    url: "/#undergraduate-works"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#honors-and-awards"
 
   - title: "Education"
-    url: "/#-education"
+    url: "/#education"
 
   - title: "Life"
-    url: "/#-life"
+    url: "/#life"
 
   - title: "Gallery"
     url: "/gallery.html"
