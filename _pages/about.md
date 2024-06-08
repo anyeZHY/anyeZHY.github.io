@@ -40,7 +40,7 @@ Previously, I am a visiting student at the Massachusetts Institute of Technology
 
   [Jiaben Chen], [Xin Yan], [Yihang Chen](), [Siyuan Cen](), [Qinwei Ma](), **Haoyu Zhen**, [Kaizhi Qian], [Lie Lu], [Chuang Gan]
 
-  [arXiv](https://arxiv.org/abs/2405.20336v1)｜[Project](https://vis-www.cs.umass.edu/rapverse/)
+  [arXiv](https://arxiv.org/abs/2405.20336v1)｜[Project](https://vis-www.cs.umass.edu/RapVerse/)
 
   </div>
 </div>
