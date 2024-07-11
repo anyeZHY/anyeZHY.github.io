@@ -61,7 +61,7 @@ Previously, I am a visiting student at the Massachusetts Institute of Technology
 
   **ICML 2024**
 
-  [arXiv](https://arxiv.org/abs/2403.09631)｜[Project](https://vis-www.cs.umass.edu/3dvla/)｜[Code](https://github.com/UMass-Foundation-Model/3D-VLA)｜[![](https://img.shields.io/github/stars/UMass-Foundation-Model/3D-VLA?style=social&label=Stars)](https://github.com/UMass-Foundation-Model/3D-VLA/stargazers)
+  [arXiv](https://arxiv.org/abs/2403.09631)｜[Project](https://vis-www.cs.umass.edu/3dvla/)｜[Code](https://github.com/UMass-Foundation-Model/3D-VLA)｜[![](https://img.shields.io/github/stars/UMass-Foundation-Model/3D-VLA?style=social&label=Stars)](https://github.com/UMass-Foundation-Model/3D-VLA/stargazers)｜<span class='show_paper_citations' data='_btLQY0AAAAJ:eQOLeE2rZwMC'></span>
   </div>
 </div>
 
@@ -79,7 +79,7 @@ Previously, I am a visiting student at the Massachusetts Institute of Technology
 
   [Yining Hong], **Haoyu Zhen**, [Peihao Chen], [Shuhong Zheng], [Yilun Du], [Zhenfang Chen], [Chuang Gan]
 
-  [arXiv](https://arxiv.org/abs/2307.12981)｜[Project](https://vis-www.cs.umass.edu/3dllm/)｜[Code](https://github.com/UMass-Foundation-Model/3D-LLM)｜[![](https://img.shields.io/github/stars/UMass-Foundation-Model/3D-LLM?style=social&label=Stars)](https://github.com/UMass-Foundation-Model/3D-LLM/stargazers)
+  [arXiv](https://arxiv.org/abs/2307.12981)｜[Project](https://vis-www.cs.umass.edu/3dllm/)｜[Code](https://github.com/UMass-Foundation-Model/3D-LLM)｜[![](https://img.shields.io/github/stars/UMass-Foundation-Model/3D-LLM?style=social&label=Stars)](https://github.com/UMass-Foundation-Model/3D-LLM/stargazers)｜<span class='show_paper_citations' data='_btLQY0AAAAJ:Tyk-4Ss8FVUC'></span>
 
   <b><hover-mark>NeurIPS 2023 <span class="red">(Spotlight)</span></hover-mark></b>
   </div>
