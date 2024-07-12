@@ -9,21 +9,21 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-I am an incoming PhD student at [UMass Amherst], supervised by Prof. [Chuang Gan]. Currently, I'm a senior undergraduate at [Shanghai Jiao Tong University] (SJTU), where I work closely with Prof. [Cewu Lu] and Dr. [Lixin Yang] from the [Machine Vision and Intelligence Group] (MVIG).
+I am an incoming PhD student at [UMass Amherst], supervised by Prof. [Chuang Gan]. Currently, I'm a senior undergraduate at [Shanghai Jiao Tong University] (SJTU), where I work closely with Prof. [Cewu Lu] and Dr. [Lixin Yang] from the [Machine Vision and Intelligence Group] (MVIG). Total citations: <span id="total_cit"></span>
 
-Previously, I am a visiting student at the Massachusetts Institute of Technology and the MIT-IBM Watson AI Lab, guided by Prof. [Josh Tenenbaum]. In addition, I have worked with Prof. [Junchi Yan] at the [SJTU-ReThinkLab].
+Previously, I am a visiting student at the [Massachusetts Institute of Technology] and the [MIT-IBM Watson AI Lab], guided by Prof. [Josh Tenenbaum]. In addition, I have worked with Prof. [Junchi Yan] at the [SJTU-ReThinkLab].
 
 {% include_relative mappings.md %}
 
 # News
-- *2024.05*: &nbsp;One paper **3D-VLA** is accepted by [ICML 2024](https://icml.cc/Conferences/2024).
-- *2024.04*: &nbsp;Give a talk at [OpenDriveLab](https://opendrivelab.com/), Shanghai AI Lab.
-- *2024.03*: &nbsp;[Introduce 3D-VLA](https://vis-www.cs.umass.edu/3dvla/).
-- *2023.10*: &nbsp;One paper **Color-NeuS** is accepted by [3DV 2024](https://3dvconf.github.io/).
-- *2023.09*: &nbsp;Two papers were accepted by [NeurIPS 2023](https://nips.cc/Conferences/2023). One <mark>spotlight</mark> and one poster.
-- *2023.07*: &nbsp;[Introduce 3D-LLM](https://vis-www.cs.umass.edu/3dllm/).
-- *2023.07*: &nbsp;One paper **CHORD** is accepted by [ICCV 2023](https://iccv2023.thecvf.com/).
-- *2023.04*: &nbsp;One paper **IOT-CL** is accepted by [ICML 2023](https://icml.cc/Conferences/2023).
+- *2024.05*: &nbsp;One paper 3D-VLA is accepted by [ICML 2024](https://icml.cc/Conferences/2024).
+- *2024.04*: &nbsp;Invited talk "Building Embodied 3D Foundation Models" at [OpenDriveLab, Shanghai AI Lab](https://opendrivelab.com/) and [QingkeLab](https://qingkelab.github.io).
+- *2024.03*: &nbsp;[Introduce 3D-VLA](https://vis-www.cs.umass.edu/3dvla/), a 3D Vision-Language-Action Generative World Model
+- *2023.10*: &nbsp;One paper Color-NeuS is accepted by [3DV 2024](https://3dvconf.github.io/).
+- *2023.09*: &nbsp;Two papers were accepted by [NeurIPS 2023](https://nips.cc/Conferences/2023). One <hover-mark><span class="brown">spotlight</span></hover-mark> and one poster.
+- *2023.07*: &nbsp;[Introduce 3D-LLM](https://vis-www.cs.umass.edu/3dllm/), the first Large Language Model that could take 3D representations as inputs.
+- *2023.07*: &nbsp;One paper CHORD is accepted by [ICCV 2023](https://iccv2023.thecvf.com/).
+- *2023.04*: &nbsp;One paper IOT-CL is accepted by [ICML 2023](https://icml.cc/Conferences/2023).
 - *2022.04*: &nbsp;Build the website: [AISJTU.ICU](https://www.aisjtu.icu).
 
 # Publications
@@ -40,8 +40,9 @@ Previously, I am a visiting student at the Massachusetts Institute of Technology
 
   [Jiaben Chen], [Xin Yan], [Yihang Chen](), [Siyuan Cen](), [Qinwei Ma](), **Haoyu Zhen**, [Kaizhi Qian], [Lie Lu], [Chuang Gan]
 
-  [arXiv](https://arxiv.org/abs/2405.20336v1)｜[Project](https://vis-www.cs.umass.edu/RapVerse/)
+  [arXiv](https://arxiv.org/abs/2405.20336v1)｜[Project](https://vis-www.cs.umass.edu/RapVerse/)｜[Code](https://github.com/UMass-Foundation-Model/RapVerse)
 
+  [![GitHub Stars](https://img.shields.io/github/stars/UMass-Foundation-Model/RapVerse?style=social)](https://github.com/UMass-Foundation-Model/RapVerse) [![Demo views](https://img.shields.io/youtube/views/6ik2qNcId8g)](https://www.youtube.com/watch?v=6ik2qNcId8g)
   </div>
 </div>
 
@@ -59,9 +60,12 @@ Previously, I am a visiting student at the Massachusetts Institute of Technology
 
   **Haoyu Zhen**, [Xiaowen Qiu](), [Peihao Chen], [Jincheng Yang], [Xin Yan], [Yilun Du], [Yining Hong], [Chuang Gan]
 
+  [arXiv](https://arxiv.org/abs/2403.09631)｜[Project](https://vis-www.cs.umass.edu/3dvla/)｜[Code](https://github.com/UMass-Foundation-Model/3D-VLA)｜[Twitter](https://x.com/gan_chuang/status/1768715113794506843)
+
   **ICML 2024**
 
-  [arXiv](https://arxiv.org/abs/2403.09631)｜[Project](https://vis-www.cs.umass.edu/3dvla/)｜[Code](https://github.com/UMass-Foundation-Model/3D-VLA)｜[![](https://img.shields.io/github/stars/UMass-Foundation-Model/3D-VLA?style=social&label=Stars)](https://github.com/UMass-Foundation-Model/3D-VLA/stargazers)｜<span class='show_paper_citations' data='_btLQY0AAAAJ:eQOLeE2rZwMC'></span>
+  [![](https://img.shields.io/github/stars/UMass-Foundation-Model/3D-VLA?style=social&label=Stars)](https://github.com/UMass-Foundation-Model/3D-VLA/stargazers) [![](https://img.shields.io/github/forks/UMass-Foundation-Model/3D-VLA)](https://github.com/UMass-Foundation-Model/3D-VLA/forks?include=active%2Cinactive) <span class='show_paper_citations_badge' data='_btLQY0AAAAJ:eQOLeE2rZwMC'></span> <a href="https://huggingface.co/anyeZHY/3dvla-diffusion"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Goal%20DM-FFD21E?style=flat&labelColor=f6f6f6"></a>
+
   </div>
 </div>
 
@@ -79,9 +83,12 @@ Previously, I am a visiting student at the Massachusetts Institute of Technology
 
   [Yining Hong], **Haoyu Zhen**, [Peihao Chen], [Shuhong Zheng], [Yilun Du], [Zhenfang Chen], [Chuang Gan]
 
-  [arXiv](https://arxiv.org/abs/2307.12981)｜[Project](https://vis-www.cs.umass.edu/3dllm/)｜[Code](https://github.com/UMass-Foundation-Model/3D-LLM)｜[![](https://img.shields.io/github/stars/UMass-Foundation-Model/3D-LLM?style=social&label=Stars)](https://github.com/UMass-Foundation-Model/3D-LLM/stargazers)｜<span class='show_paper_citations' data='_btLQY0AAAAJ:Tyk-4Ss8FVUC'></span>
+  [arXiv](https://arxiv.org/abs/2307.12981)｜[Project](https://vis-www.cs.umass.edu/3dllm/)｜[Code](https://github.com/UMass-Foundation-Model/3D-LLM)｜[Twitter](https://x.com/_akhaliq/status/1683704549817868288)
 
   <b><hover-mark>NeurIPS 2023 <span class="red">(Spotlight)</span></hover-mark></b>
+
+  [![](https://img.shields.io/github/stars/UMass-Foundation-Model/3D-LLM?style=social&label=Stars)](https://github.com/UMass-Foundation-Model/3D-LLM/stargazers) [![](https://img.shields.io/github/forks/UMass-Foundation-Model/3D-LLM)](https://github.com/UMass-Foundation-Model/3D-LLM/forks?include=active%2Cinactive) <span class='show_paper_citations_badge' data='_btLQY0AAAAJ:Tyk-4Ss8FVUC'></span>
+
   </div>
 </div>
 
@@ -115,9 +122,11 @@ Previously, I am a visiting student at the Massachusetts Institute of Technology
 
   [Licheng Zhong], [Lixin Yang], [Kailin Li], **Haoyu Zhen**, [Mei Han], [Cewu Lu]
 
-  [arXiv](https://arxiv.org/abs/2308.06962)｜[Project](https://colmar-zlicheng.github.io/color_neus/)｜[Code](https://github.com/Colmar-zlicheng/Color-NeuS)｜[Data](https://drive.google.com/drive/folders/1C6vcRiy_MFMtsaR8AydRAPrLIkok-tJm)｜[![](https://img.shields.io/github/stars/Colmar-zlicheng/Color-NeuS?style=social&label=Stars)](https://github.com/Colmar-zlicheng/Color-NeuS/stargazers)
+  [arXiv](https://arxiv.org/abs/2308.06962)｜[Project](https://colmar-zlicheng.github.io/color_neus/)｜[Code](https://github.com/Colmar-zlicheng/Color-NeuS)｜[Data](https://drive.google.com/drive/folders/1C6vcRiy_MFMtsaR8AydRAPrLIkok-tJm)
 
   **3DV 2024**
+
+  [![](https://img.shields.io/github/stars/Colmar-zlicheng/Color-NeuS?style=social&label=Stars)](https://github.com/Colmar-zlicheng/Color-NeuS/stargazers) [![](https://img.shields.io/github/forks/Colmar-zlicheng/Color-NeuS)](https://github.com/Colmar-zlicheng/Color-NeuS/forks?include=active%2Cinactive)
   </div>
 </div>
 

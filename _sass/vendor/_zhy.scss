@@ -82,6 +82,10 @@ grow:active::before {
   color: red;
 }
 
+.brown {
+    color: brown;
+  }
+
 mark {
     -webkit-animation: 1.5s highlight 1.5s 1 normal forwards;
     animation: 1.5s highlight 1.5s 1 normal forwards;
