@@ -21,7 +21,7 @@ Previously, I am a visiting student at the [Massachusetts Institute of Technolog
 - *2024.03*: &nbsp;[Introduce 3D-VLA](https://vis-www.cs.umass.edu/3dvla/), a 3D Vision-Language-Action Generative World Model
 - *2023.10*: &nbsp;One paper Color-NeuS is accepted by [3DV 2024](https://3dvconf.github.io/).
 - *2023.09*: &nbsp;Two papers were accepted by [NeurIPS 2023](https://nips.cc/Conferences/2023). One <hover-mark><span class="brown">spotlight</span></hover-mark> and one poster.
-- *2023.07*: &nbsp;[Introduce 3D-LLM](https://vis-www.cs.umass.edu/3dllm/), the first Large Language Model that could take 3D representations as inputs.
+- *2023.07*: &nbsp;[Introduce 3D-LLM](https://vis-www.cs.umass.edu/3dllm/), the <span class="brown">first</span> Large Language Model that could take 3D representations as inputs.
 - *2023.07*: &nbsp;One paper CHORD is accepted by [ICCV 2023](https://iccv2023.thecvf.com/).
 - *2023.04*: &nbsp;One paper IOT-CL is accepted by [ICML 2023](https://icml.cc/Conferences/2023).
 - *2022.04*: &nbsp;Build the website: [AISJTU.ICU](https://www.aisjtu.icu).
@@ -210,24 +210,58 @@ Previously, I am a visiting student at the [Massachusetts Institute of Technolog
 
 # Education
 
-- *2023.06 - 2023.12*, Visiting Student, Massachusetts Institute of Technology.
+<div class='paper-box-right'>
+  <div class='paper-box-text' markdown="1">
+  Massachusetts Institute of Technology
+  
+  Visiting Student, *2023.06 - 2023.12*
+  
+  Advisor: [Josh Tenenbaum]
+  </div>
+  <div class='paper-box-image'>
+    <div>
+      <a href='https://mit.edu'>
+      <img src='images/mit.svg' alt="sym" width="100px" style="padding: 10px">
+      </a>
+    </div>
+  </div>
+</div>
 
-- *2020.09 - (now)*, Undergraduate, Artificial Intelligence, Shanghai Jiao Tong University. GPA: 92.80/100, 4.03/4.3 (Rank: 4/88).
-  <details style='padding: 0px 10px; border-radius:5px 30px 30px 5px; border-width: 1px;'>
+<div class='paper-box-right'>
+  <div class='paper-box-text' markdown="1">
+  Shanghai Jiao Tong University 
+
+  Undergraduate, Artificial Intelligence, 2020.09 - 2024.06
+
+  Advisor: [Junchi Yan], [Cewu Lu]
+
+  <details style='padding: 0px 0px; border-radius:0px 30px 30px 5px; border-width: 1px;'>
     <summary>Detailed Academic Performance
       <a href="https://github.com/anyeZHY/SJTU-Course-Stack">
-        [Implementation and Lecture Notes]
+        [Projects and Lecture Notes]
       </a>
     </summary>
     <ul>
       <li>
-        4th semester: GPA:95.24/100, 4.20/4.3 <mark>(Rank 1/89)</mark>.
+        GPA: 92.80/100, 4.03/4.3 (Rank: 4/88)
+      </li>
+      <li>
+        4th semester: GPA:95.24/100, 4.20/4.3 <mark><span class="brown">(Rank 1/89)</span></mark>.
       </li>
       <li>
         Sophomore year: GPA:94.04/100, 4.12/4.3 (Rank 2/89).
       </li>
     </ul>
   </details>
+  </div>
+  <div class='paper-box-image'>
+    <div>
+      <a href='https://en.sjtu.edu.cn'>
+      <img src='images/sjtu.png' alt="sym" width="100" style="padding: 10px">
+      </a>
+    </div>
+  </div>
+</div>
 
 # Experience
 
@@ -258,8 +292,8 @@ Previously, I am a visiting student at the [Massachusetts Institute of Technolog
   </div>
   <div class='paper-box-image'>
     <div>
-      <a href='https://mit.edu'>
-      <img src='images/mit.svg' alt="sym" width="100px" style="padding: 10px">
+      <a href='https://mitibmwatsonailab.mit.edu'>
+      <img src='images/mitibm.png' alt="sym" width="100px" style="padding: 10px">
       </a>
     </div>
   </div>
