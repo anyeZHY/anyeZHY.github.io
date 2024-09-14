@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-I am an incoming PhD student at [UMass Amherst], supervised by Prof. [Chuang Gan]. Currently, I'm a senior undergraduate at [Shanghai Jiao Tong University] (SJTU), where I work closely with Prof. [Cewu Lu] and Dr. [Lixin Yang] from the [Machine Vision and Intelligence Group] (MVIG). Total citations: <span id="total_cit"></span>
+I am a first-year PhD student at [UMass Amherst], supervised by Prof. [Chuang Gan]. Total citations: <span id="total_cit"></span>
 
-Previously, I am a visiting student at the [Massachusetts Institute of Technology] and the [MIT-IBM Watson AI Lab], guided by Prof. [Josh Tenenbaum]. In addition, I have worked with Prof. [Junchi Yan] at the [SJTU-ReThinkLab].
+I received my Bachelor of Engineering (BE) from [Shanghai Jiao Tong University] (SJTU), where I worked closely with Prof. [Cewu Lu] and Dr. [Lixin Yang] from the [Machine Vision and Intelligence Group] (MVIG). In addition, I have worked with Prof. [Junchi Yan] at the [SJTU-ReThinkLab]. Previously, I was a visiting student at the [Massachusetts Institute of Technology] and the [MIT-IBM Watson AI Lab], guided by Prof. [Josh Tenenbaum].
 
 {% include_relative mappings.md %}
 
@@ -269,7 +269,7 @@ Previously, I am a visiting student at the [Massachusetts Institute of Technolog
   <div class='paper-box-text' markdown="1">
   Meshy, Taichi Graphics
 
-  Intern, *2024.02 - (now)*
+  Intern, *2024.02 - 2024.08*
 
   Host: [Tiantian Liu]
   </div>
@@ -303,7 +303,7 @@ Previously, I am a visiting student at the [Massachusetts Institute of Technolog
   <div class='paper-box-text' markdown="1">
   [Machine Vision and Intelligence Group]
 
-  Research undergraduate, *2021.12 - (now)*
+  Research undergraduate, *2021.12 - 2024.08*
 
   Advisor: [Cewu Lu]
   </div>
