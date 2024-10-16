@@ -9,9 +9,13 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-I am a first-year PhD student at [UMass Amherst], supervised by Prof. [Chuang Gan]. Total citations: <span id="total_cit"></span>
+I am currently a first-year PhD student at [UMass Amherst], where I am supervised by Prof. [Chuang Gan] and collaborate with Prof. [Yilun Du].
+My research focuses on Building 3D Foundation Models and World Models.
+Total citations: <span id="total_cit"></span>
 
-I received my Bachelor's degree from [Shanghai Jiao Tong University] (SJTU), where I worked closely with Prof. [Cewu Lu] and Dr. [Lixin Yang] from the [Machine Vision and Intelligence Group] (MVIG). In addition, I have worked with Prof. [Junchi Yan] at the [SJTU-ReThinkLab]. Previously, I was a visiting student at the [Massachusetts Institute of Technology] and the [MIT-IBM Watson AI Lab], guided by Prof. [Josh Tenenbaum].
+I received my Bachelor's degree from [Shanghai Jiao Tong University] (SJTU), where I worked closely with Prof. [Cewu Lu] and Dr. [Lixin Yang] from the [Machine Vision and Intelligence Group] (MVIG).
+In addition, I have worked with Prof. [Junchi Yan] at the [SJTU-ReThinkLab].
+Previously, I was a visiting student at the [Massachusetts Institute of Technology] and the [MIT-IBM Watson AI Lab], guided by Prof. [Josh Tenenbaum].
 
 {% include_relative mappings.md %}
 
@@ -212,6 +216,23 @@ I received my Bachelor's degree from [Shanghai Jiao Tong University] (SJTU), whe
 
 <div class='paper-box-right'>
   <div class='paper-box-text' markdown="1">
+  University of Massachusetts Amherst
+
+  PhD Student, *2024.09 - Present*
+
+  Advisor: [Chuang Gan]
+  </div>
+  <div class='paper-box-image'>
+    <div>
+      <a href='https://www.umass.edu/'>
+      <img src='images/umass.png' alt="sym" width="100px" style="padding: 10px">
+      </a>
+    </div>
+  </div>
+</div>
+
+<div class='paper-box-right'>
+  <div class='paper-box-text' markdown="1">
   Massachusetts Institute of Technology
   
   Visiting Student, *2023.06 - 2023.12*
@@ -263,7 +284,7 @@ I received my Bachelor's degree from [Shanghai Jiao Tong University] (SJTU), whe
   </div>
 </div>
 
-# Experience
+# Experiences
 
 <div class='paper-box-right'>
   <div class='paper-box-text' markdown="1">
@@ -332,6 +353,13 @@ I received my Bachelor's degree from [Shanghai Jiao Tong University] (SJTU), whe
     </div>
   </div>
 </div>
+
+# Services
+
+Reviewer: ICLR 2025, ICRA 2025, AAAI 2024/2025, WACV 2025
+
+Teaching Assistant:
+- [CS 250, Introduction to Computation](https://people.cs.umass.edu/~barring/cs250/), UMass Amherst, Fall 2024
 
 # Life
 
