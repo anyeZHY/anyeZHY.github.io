@@ -356,7 +356,8 @@ Previously, I was a visiting student at the [Massachusetts Institute of Technolo
 
 # Services
 
-Reviewer: ICLR 2025, ICRA 2025, AAAI 2024/2025, WACV 2025
+Reviewer:
+- ICLR 2025, ICRA 2025, AAAI 2024/2025, WACV 2025
 
 Teaching Assistant:
 - [CS 250, Introduction to Computation](https://people.cs.umass.edu/~barring/cs250/), UMass Amherst, Fall 2024
@@ -385,7 +386,7 @@ Teaching Assistant:
   - Gaze Estimation with Fused Features.
   </li>
   <li>
-    I am an active athlete who plays for the
+    Previously, I was a player in the
     <grow>
     	<b>
       	<div class='tooltip'>Badminton Team of SEIEE
