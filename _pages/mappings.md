@@ -19,6 +19,7 @@
 [Jiaben Chen]: https://jiabenchen.github.io
 [Kaizhi Qian]: https://scholar.google.com/citations?user=uEpr4C4AAAAJ
 [Lie Lu]: https://scholar.google.com/citations?user=EEds7hMAAAAJ
+[Siyuan Zhou]: https://rainbow979.github.io/
 
 <!-- Nvidia -->
 [NVIDIA]: https://www.nvidia.com/
