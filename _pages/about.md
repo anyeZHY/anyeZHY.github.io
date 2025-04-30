@@ -20,7 +20,8 @@ Previously, I was a visiting student at the [Massachusetts Institute of Technolo
 {% include_relative mappings.md %}
 
 # News
-- *2025.04*: &nbsp;We released [TesserAct](https://tesseractworld.github.io/).
+- *2025.05*: &nbsp;I will do an internship at [NVIDIA] this summer, at Santa Clara, California.
+- *2025.04*: &nbsp;Introduce [TesserAct](https://tesseractworld.github.io/).
 - *2024.05*: &nbsp;One paper 3D-VLA is accepted by [ICML 2024](https://icml.cc/Conferences/2024).
 - *2024.04*: &nbsp;Invited talk "Building Embodied 3D Foundation Models" at [OpenDriveLab, Shanghai AI Lab](https://opendrivelab.com/) and [QingkeLab](https://qingkelab.github.io).
 - *2024.03*: &nbsp;[Introduce 3D-VLA](https://vis-www.cs.umass.edu/3dvla/), a 3D Vision-Language-Action Generative World Model
@@ -43,7 +44,9 @@ Previously, I was a visiting student at the [Massachusetts Institute of Technolo
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-  TesserAct: Learning 4D Embodied World Models
+  **TesserAct: Learning 4D Embodied World Models**
+
+  **Haoyu Zhen\***, [Qiao Sun]()\*, [Hongxin Zhang](), [Junyan Li](), [Siyuan Zhou], [Yilun Du], [Chuang Gan]
 
   [arXiv]()｜[Project](https://tesseractworld.github.io/)｜[Code]()｜[Twitter]()
 
