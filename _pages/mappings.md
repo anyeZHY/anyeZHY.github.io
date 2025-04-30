@@ -20,6 +20,9 @@
 [Kaizhi Qian]: https://scholar.google.com/citations?user=uEpr4C4AAAAJ
 [Lie Lu]: https://scholar.google.com/citations?user=EEds7hMAAAAJ
 
+<!-- Nvidia -->
+[NVIDIA]: https://www.nvidia.com/
+
 <!-- MVIG -->
 [Shanghai Jiao Tong University]: https://en.sjtu.edu.cn
 [MVIG]: https://www.mvig.org/
