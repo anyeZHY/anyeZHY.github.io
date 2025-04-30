@@ -20,6 +20,7 @@ Previously, I was a visiting student at the [Massachusetts Institute of Technolo
 {% include_relative mappings.md %}
 
 # News
+- *2025.04*: &nbsp;We released [TesserAct](https://tesseractworld.github.io/).
 - *2024.05*: &nbsp;One paper 3D-VLA is accepted by [ICML 2024](https://icml.cc/Conferences/2024).
 - *2024.04*: &nbsp;Invited talk "Building Embodied 3D Foundation Models" at [OpenDriveLab, Shanghai AI Lab](https://opendrivelab.com/) and [QingkeLab](https://qingkelab.github.io).
 - *2024.03*: &nbsp;[Introduce 3D-VLA](https://vis-www.cs.umass.edu/3dvla/), a 3D Vision-Language-Action Generative World Model
@@ -31,6 +32,25 @@ Previously, I was a visiting student at the [Massachusetts Institute of Technolo
 - *2022.04*: &nbsp;Build the website: [AISJTU.ICU](https://www.aisjtu.icu).
 
 # Publications
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">arXiv</div>
+      <video autoplay loop muted playsinline webkit-playsinline width="100%">
+        <source src="https://tesseractworld.github.io/assets/teaser.mp4" type="video/mp4">
+      </video>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  TesserAct: Learning 4D Embodied World Models
+
+  [arXiv]()｜[Project](https://tesseractworld.github.io/)｜[Code]()｜[Twitter]()
+
+  arXiv 2025
+
+  </div>
+</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
