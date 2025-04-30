@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Haoyu Zhen 甄昊宇"
   avatar           : "images/me.JPG"
-  bio              : "Shanghai Jiao Tong University"
+  bio              : "UMass Amherst"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=_btLQY0AAAAJ&hl"
-  email            : "anye_zhen@sjtu.edu.cn"
+  email            : "hzhen@umass.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
