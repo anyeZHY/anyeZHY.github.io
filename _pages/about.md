@@ -20,7 +20,7 @@ Previously, I was a visiting student at the [Massachusetts Institute of Technolo
 {% include_relative mappings.md %}
 
 # News
-- *2025.05*: &nbsp;I will do an internship at [NVIDIA] this summer, at Santa Clara, California.
+- *2025.05*: &nbsp;Internship at [NVIDIA] this summer, at Santa Clara, California.
 - *2025.04*: &nbsp;Introduce [TesserAct](https://tesseractworld.github.io/).
 - *2024.05*: &nbsp;One paper 3D-VLA is accepted by [ICML 2024](https://icml.cc/Conferences/2024).
 - *2024.04*: &nbsp;Invited talk "Building Embodied 3D Foundation Models" at [OpenDriveLab, Shanghai AI Lab](https://opendrivelab.com/) and [QingkeLab](https://qingkelab.github.io).
@@ -48,7 +48,9 @@ Previously, I was a visiting student at the [Massachusetts Institute of Technolo
 
   **Haoyu Zhen\***, [Qiao Sun]()\*, [Hongxin Zhang](), [Junyan Li](), [Siyuan Zhou], [Yilun Du], [Chuang Gan]
 
-  [arXiv]()｜[Project](https://tesseractworld.github.io/)｜[Code]()｜[Twitter]()
+  [arXiv](https://arxiv.org/abs/2504.20995)｜[Project](https://tesseractworld.github.io/)｜[Code](https://github.com/UMass-Embodied-AGI/TesserAct)｜[Twitter]()
+
+  [![GitHub Stars](https://img.shields.io/github/stars/UMass-Embodied-AGI/Tesseract?style=social)](https://github.com/UMass-Embodied-AGI/Tesseract) [![](https://img.shields.io/github/forks/UMass-Embodied-AGI/Tesseract?style=social)](https://github.com/UMass-Embodied-AGI/Tesseract/forks?include=active%2Cinactive) <a href="https://huggingface.co/anyeZHY/tesseract"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-TesserAct-FFD21E?style=flat&labelColor=f6f6f6"></a>
 
   arXiv 2025
 
