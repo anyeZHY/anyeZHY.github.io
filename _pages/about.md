@@ -20,6 +20,7 @@ Previously, I was a visiting student at the [Massachusetts Institute of Technolo
 {% include_relative mappings.md %}
 
 # News
+- *2025.06*: &nbsp;Two papers are accepted by [ICCV 2025](https://iccv.thecvf.com/Conferences/2025).
 - *2025.05*: &nbsp;Internship at [NVIDIA] this summer, at Santa Clara, California.
 - *2025.04*: &nbsp;Introduce [TesserAct](https://tesseractworld.github.io/).
 - *2024.05*: &nbsp;One paper 3D-VLA is accepted by [ICML 2024](https://icml.cc/Conferences/2024).
@@ -37,7 +38,7 @@ Previously, I was a visiting student at the [Massachusetts Institute of Technolo
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">arXiv</div>
+      <div class="badge">ICCV 2025</div>
       <video autoplay loop muted playsinline webkit-playsinline width="100%">
         <source src="https://tesseractworld.github.io/assets/teaser.mp4" type="video/mp4">
       </video>
@@ -52,7 +53,7 @@ Previously, I was a visiting student at the [Massachusetts Institute of Technolo
 
   [![GitHub Stars](https://img.shields.io/github/stars/UMass-Embodied-AGI/Tesseract?style=social)](https://github.com/UMass-Embodied-AGI/Tesseract) [![](https://img.shields.io/github/forks/UMass-Embodied-AGI/Tesseract?style=social)](https://github.com/UMass-Embodied-AGI/Tesseract/forks?include=active%2Cinactive) <a href="https://huggingface.co/anyeZHY/tesseract"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-TesserAct-FFD21E?style=flat&labelColor=f6f6f6"></a>
 
-  arXiv 2025
+  **ICCV 2025**
 
   </div>
 </div>
@@ -60,7 +61,7 @@ Previously, I was a visiting student at the [Massachusetts Institute of Technolo
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">arXiv</div>
+      <div class="badge">ICCV 2025</div>
       <img src='images/rapverse.png' alt="sym" width="100%">
     </div>
   </div>
@@ -72,6 +73,8 @@ Previously, I was a visiting student at the [Massachusetts Institute of Technolo
   [arXiv](https://arxiv.org/abs/2405.20336v1)｜[Project](https://vis-www.cs.umass.edu/RapVerse/)｜[Code](https://github.com/UMass-Foundation-Model/RapVerse)
 
   [![GitHub Stars](https://img.shields.io/github/stars/UMass-Foundation-Model/RapVerse?style=social)](https://github.com/UMass-Foundation-Model/RapVerse) [![Demo views](https://img.shields.io/youtube/views/6ik2qNcId8g)](https://www.youtube.com/watch?v=6ik2qNcId8g)
+
+  **ICCV 2025**
   </div>
 </div>
 
@@ -313,6 +316,21 @@ Previously, I was a visiting student at the [Massachusetts Institute of Technolo
 
 <div class='paper-box-right'>
   <div class='paper-box-text' markdown="1">
+  NVIDIA
+
+  Intern, *2025.06 - Present*
+  </div>
+  <div class='paper-box-image'>
+    <div>
+      <a href='https://www.nvidia.com/'>
+      <img src='images/nvidia.png' alt="sym" width="100px" style="padding: 10px">
+      </a>
+    </div>
+  </div>
+</div>
+
+<div class='paper-box-right'>
+  <div class='paper-box-text' markdown="1">
   Meshy, Taichi Graphics
 
   Intern, *2024.02 - 2024.08*
@@ -333,8 +351,6 @@ Previously, I was a visiting student at the [Massachusetts Institute of Technolo
   [CoCoSci Lab], [Massachusetts Institute of Technology] and [MIT-IBM Watson AI Lab](https://mitibmwatsonailab.mit.edu/)
 
   Visiting Student, *2023.03 - 2023.12*
-
-  Advisor: [Josh Tenenbaum], [Chuang Gan]
   </div>
   <div class='paper-box-image'>
     <div>
@@ -382,7 +398,7 @@ Previously, I was a visiting student at the [Massachusetts Institute of Technolo
 # Services
 
 Reviewer:
-- ICLR 2025, ICRA 2025, AAAI 2024/2025, WACV 2025
+- ICLR, ICRA, AAAI, WACV, TPAMI, ICCV
 
 Teaching Assistant:
 - [CS 250, Introduction to Computation](https://people.cs.umass.edu/~barring/cs250/), UMass Amherst, Fall 2024
