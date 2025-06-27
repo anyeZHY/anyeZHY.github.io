@@ -318,7 +318,7 @@ Previously, I was a visiting student at the [Massachusetts Institute of Technolo
   <div class='paper-box-text' markdown="1">
   NVIDIA
 
-  Intern, *2025.06 - Present*
+  Intern, *2025.05 - Present*
   </div>
   <div class='paper-box-image'>
     <div>
