@@ -20,6 +20,7 @@ Previously, I was a visiting student at the [Massachusetts Institute of Technolo
 {% include_relative mappings.md %}
 
 # News
+- *2025.07*: &nbsp;Invited talk at [Lumina Embodied AI](https://github.com/TianxingChen/Embodied-AI-Guide) and [3DVers]().
 - *2025.06*: &nbsp;Two papers are accepted by [ICCV 2025](https://iccv.thecvf.com/Conferences/2025).
 - *2025.05*: &nbsp;Internship at [NVIDIA] this summer, in Santa Clara, California.
 - *2025.04*: &nbsp;Introduce [TesserAct](https://tesseractworld.github.io/).
