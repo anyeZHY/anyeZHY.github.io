@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-I am currently a first-year PhD student at [UMass Amherst], where I am supervised by Prof. [Chuang Gan] and collaborate with Prof. [Yilun Du]. In addition, I am closely collaborating with NVIDIA and Genesis.
-
-My research focuses on Building 3D Foundation Models and World Models.
-Total citations: <span id="total_cit"></span>
+I am currently a first-year PhD student at [UMass Amherst], where I am supervised by Prof. [Chuang Gan] and collaborate with Prof. [Yilun Du]. In addition, I am working closely with NVIDIA and Genesis.
 
 I received my Bachelor's degree from [Shanghai Jiao Tong University] (SJTU), where I worked closely with Prof. [Cewu Lu] and Dr. [Lixin Yang] from the [Machine Vision and Intelligence Group] (MVIG), as well as with Prof. [Junchi Yan] at the [SJTU-ReThinkLab].
 Previously, I was a visiting student at the [Massachusetts Institute of Technology], guided by Prof. [Josh Tenenbaum].
+
+My research focuses on Building 3D Foundation Models and World Models.
+Total citations: <span id="total_cit"></span>
 
 {% include_relative mappings.md %}
 
@@ -62,7 +62,7 @@ Previously, I was a visiting student at the [Massachusetts Institute of Technolo
 
   [arXiv](https://arxiv.org/abs/2504.20995)｜[Project](https://tesseractworld.github.io/)｜[Code](https://github.com/UMass-Embodied-AGI/TesserAct)｜[Twitter]()
 
-  [![GitHub Stars](https://img.shields.io/github/stars/UMass-Embodied-AGI/Tesseract?style=social)](https://github.com/UMass-Embodied-AGI/Tesseract) [![](https://img.shields.io/github/forks/UMass-Embodied-AGI/Tesseract?style=social)](https://github.com/UMass-Embodied-AGI/Tesseract/forks?include=active%2Cinactive) <a href="https://huggingface.co/anyeZHY/tesseract"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-TesserAct-FFD21E?style=flat&labelColor=f6f6f6"></a>
+  [![GitHub Stars](https://img.shields.io/github/stars/UMass-Embodied-AGI/Tesseract?style=social)](https://github.com/UMass-Embodied-AGI/Tesseract) [![](https://img.shields.io/github/forks/UMass-Embodied-AGI/Tesseract?style=social)](https://github.com/UMass-Embodied-AGI/Tesseract/forks?include=active%2Cinactive) <span class='show_paper_citations_badge' data='_btLQY0AAAAJ:LkGwnXOMwfcC'></span><a href="https://huggingface.co/anyeZHY/tesseract"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-TesserAct-FFD21E?style=flat&labelColor=f6f6f6"></a>
 
   **ICCV 2025**
 
