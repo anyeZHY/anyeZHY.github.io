@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-I am currently a first-year PhD student at [UMass Amherst], where I am supervised by Prof. [Chuang Gan] and collaborate with Prof. [Yilun Du].
+I am currently a first-year PhD student at [UMass Amherst], where I am supervised by Prof. [Chuang Gan] and collaborate with Prof. [Yilun Du]. In addition, I am closely collaborating with NVIDIA and Genesis.
+
 My research focuses on Building 3D Foundation Models and World Models.
 Total citations: <span id="total_cit"></span>
 
-I received my Bachelor's degree from [Shanghai Jiao Tong University] (SJTU), where I worked closely with Prof. [Cewu Lu] and Dr. [Lixin Yang] from the [Machine Vision and Intelligence Group] (MVIG).
-In addition, I have worked with Prof. [Junchi Yan] at the [SJTU-ReThinkLab].
-Previously, I was a visiting student at the [Massachusetts Institute of Technology] and the [MIT-IBM Watson AI Lab], guided by Prof. [Josh Tenenbaum].
+I received my Bachelor's degree from [Shanghai Jiao Tong University] (SJTU), where I worked closely with Prof. [Cewu Lu] and Dr. [Lixin Yang] from the [Machine Vision and Intelligence Group] (MVIG), as well as with Prof. [Junchi Yan] at the [SJTU-ReThinkLab].
+Previously, I was a visiting student at the [Massachusetts Institute of Technology], guided by Prof. [Josh Tenenbaum].
 
 {% include_relative mappings.md %}
 
@@ -329,7 +329,11 @@ Previously, I was a visiting student at the [Massachusetts Institute of Technolo
   <div class='paper-box-text' markdown="1">
   NVIDIA
 
-  Intern, *2025.05 - Present*
+  Intern, *2025.05 - 2025.08*
+
+  Host: Subhashree Radhakrishnan
+
+  Collaborator: Xiaolong Li, Tsung-Yi Lin, Sifei Liu, Zhiding Yu, and Kaichun Mo
   </div>
   <div class='paper-box-image'>
     <div>
@@ -365,8 +369,8 @@ Previously, I was a visiting student at the [Massachusetts Institute of Technolo
   </div>
   <div class='paper-box-image'>
     <div>
-      <a href='https://mitibmwatsonailab.mit.edu'>
-      <img src='images/mitibm.png' alt="sym" width="100px" style="padding: 10px">
+      <a href='https://cocosci.mit.edu/'>
+      <img src='images/cocosci.jpg' alt="sym" width="100px" style="padding: 10px">
       </a>
     </div>
   </div>
@@ -409,9 +413,10 @@ Previously, I was a visiting student at the [Massachusetts Institute of Technolo
 # Services
 
 Reviewer:
-- ICLR, ICRA, AAAI, WACV, TPAMI, ICCV
+- ICLR, ICRA, AAAI, WACV, TPAMI, ICCV, NIPS
 
 Teaching Assistant:
+- [CS 230, Computer Systems Principles](https://sites.google.com/view/cs230-fall-2025/home), UMass Amherst, Fall 2025
 - [CS 250, Introduction to Computation](https://people.cs.umass.edu/~barring/cs250/), UMass Amherst, Fall 2024
 
 # Life
