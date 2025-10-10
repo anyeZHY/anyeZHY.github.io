@@ -24,6 +24,9 @@
 <!-- Nvidia -->
 [NVIDIA]: https://www.nvidia.com/
 
+<!-- Genesis -->
+[Genesis]: https://genesis-ai.company/
+
 <!-- MVIG -->
 [Shanghai Jiao Tong University]: https://en.sjtu.edu.cn
 [MVIG]: https://www.mvig.org/
