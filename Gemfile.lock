@@ -283,13 +283,14 @@ GEM
 PLATFORMS
   arm64-darwin-23
   arm64-darwin-24
+  arm64-darwin-25
   universal-darwin-19
   universal-darwin-21
   universal-darwin-22
   x86_64-linux
 
 DEPENDENCIES
-  github-pages
+  github-pages (~> 232)
   hawkins
   jekyll-feed
   jekyll-sitemap

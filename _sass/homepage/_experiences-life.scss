@@ -1,0 +1,15 @@
+// Experiences, Services, and Life section styles
+// Extracted from inline styles in about.md (renders identically).
+
+// Experiences: logo images inside paper-box-image.
+// Replaces inline style="padding: 10px" / style="padding: 10px;".
+.exp-logo {
+  padding: 10px;
+}
+
+// Life: tooltip caption text under the image preview.
+// Replaces inline style='font-size: 12px; font-weight: normal'.
+.tooltip-caption {
+  font-size: 12px;
+  font-weight: normal;
+}

@@ -1,0 +1,15 @@
+// Honors and Awards + Education section styles
+// Classes migrated from inline styles in about.md (Education blocks).
+
+// Replaces inline: style="padding: 10px" on the UMass/MIT/SJTU <img> logos.
+.edu-logo-pad {
+  padding: 10px;
+}
+
+// Replaces inline: style='padding: 0px 0px; border-radius:0px 30px 30px 5px; border-width: 1px;'
+// on the SJTU "Detailed Academic Performance" <details> element.
+.edu-academic-details {
+  padding: 0px 0px;
+  border-radius: 0px 30px 30px 5px;
+  border-width: 1px;
+}
