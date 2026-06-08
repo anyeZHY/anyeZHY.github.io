@@ -2,6 +2,23 @@
 
 <div class='paper-box-right'>
   <div class='paper-box-text' markdown="1">
+  Meta Platforms, Inc.
+
+  Intern, *2026.05 - 2026.08*
+
+  Host: [Julian Straub]
+  </div>
+  <div class='paper-box-image'>
+    <div>
+      <a href='https://ai.meta.com/'>
+      <img src='images/meta.svg' alt="Meta logo" width="100px" class="exp-logo">
+      </a>
+    </div>
+  </div>
+</div>
+
+<div class='paper-box-right'>
+  <div class='paper-box-text' markdown="1">
   NVIDIA
 
   Intern, *2025.05 - 2025.08*

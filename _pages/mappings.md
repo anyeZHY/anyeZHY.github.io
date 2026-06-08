@@ -44,6 +44,8 @@
 
 <!-- Nvidia -->
 [NVIDIA]: https://www.nvidia.com/
+[Meta]: https://ai.meta.com/
+[Julian Straub]: https://jstraub.github.io/
 [Xiaolong Li]: https://dragonlong.github.io/
 [Han Zhang]: https://pariszhang11.github.io/
 [Sifei Liu]: https://sifeiliu.net/

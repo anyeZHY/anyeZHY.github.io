@@ -54,6 +54,8 @@
 
   [arXiv](https://arxiv.org/abs/2606.04264)
 
+  <b><hover-mark><span class="red">Best Paper</span> @ A2A-MML Workshop, CVPR 2026</hover-mark></b>
+
   **arXiv 2026**
 
   </div>
