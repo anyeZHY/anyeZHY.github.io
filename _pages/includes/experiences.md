@@ -4,9 +4,9 @@
   <div class='paper-box-text' markdown="1">
   Meta Platforms, Inc.
 
-  Intern, *2026.05 - 2026.08*
+  Intern, *2026.05 - 2027.01*
 
-  Host: [Julian Straub]
+  Host: [Zhipeng Cai], [Julian Straub]
   </div>
   <div class='paper-box-image'>
     <div>

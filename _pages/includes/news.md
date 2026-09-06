@@ -1,5 +1,5 @@
 # News
-- *2026.06*: &nbsp;Two papers ([3D-Layout-R1](https://arxiv.org/abs/2603.22279) and [Fast Spatial Memory](https://fast-spatial-memory.github.io/)) are accepted by [ECCV 2026](https://eccv.ecva.net/Conferences/2026).
+- *2026.06*: &nbsp;Two papers are accepted by [ECCV 2026](https://eccv.ecva.net/Conferences/2026).
 - *2026.06*: &nbsp;[UniCanvas](https://arxiv.org/abs/2606.04264) receives the <span class="red">Best Paper</span> at the A2A-MML Workshop, [CVPR 2026](https://cvpr.thecvf.com/Conferences/2026).
 - *2026.05*: &nbsp;Internship at [Meta] this summer, in Redmond, Washington.
 - *2026.04*: &nbsp;One paper [GHOST](https://ghost-human-demo.github.io/) is accepted by [RSS 2026](https://roboticsconference.org/).
