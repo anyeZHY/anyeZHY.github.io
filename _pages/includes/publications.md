@@ -24,7 +24,7 @@
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">arXiv 2026</div>
+      <div class="badge">ECCV 2026</div>
       <img src='https://arxiv.org/html/2603.22279v1/x1.png' alt="3D-Layout-R1 teaser" width="100%">
     </div>
   </div>
@@ -35,7 +35,28 @@
 
   [arXiv](https://arxiv.org/abs/2603.22279)
 
-  **arXiv 2026**
+  **ECCV 2026**
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ECCV 2026</div>
+      <img src='https://fast-spatial-memory.github.io/static/images/model.png' alt="Fast Spatial Memory teaser" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **Fast Spatial Memory with Elastic Test-Time Training**
+
+  [Ziqiao Ma], [Xueyang Yu], **Haoyu Zhen**, [Yuncong Yang], [Joyce Chai], [Chuang Gan]
+
+  [arXiv](https://arxiv.org/abs/2604.07350)｜[Project](https://fast-spatial-memory.github.io/)｜[Code](https://github.com/Mars-tin/fast-spatial-mem)｜[Blog](https://mars-tin.github.io/blogs/posts/elastic_ttt.html)
+
+  [![GitHub Stars](https://img.shields.io/github/stars/Mars-tin/fast-spatial-mem?style=social)](https://github.com/Mars-tin/fast-spatial-mem/stargazers) [![](https://img.shields.io/github/forks/Mars-tin/fast-spatial-mem?style=social)](https://github.com/Mars-tin/fast-spatial-mem/forks?include=active%2Cinactive) <a href="https://huggingface.co/marstin/fast-spatial-mem"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Fast%20Spatial%20Memory-FFD21E?style=flat&labelColor=f6f6f6"></a>
+
+  **ECCV 2026**
 
   </div>
 </div>
@@ -55,27 +76,6 @@
   [arXiv](https://arxiv.org/abs/2606.04264)
 
   <b><hover-mark><span class="red">Best Paper</span> @ A2A-MML Workshop, CVPR 2026</hover-mark></b>
-
-  **arXiv 2026**
-
-  </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">arXiv 2026</div>
-      <img src='https://fast-spatial-memory.github.io/static/images/model.png' alt="Fast Spatial Memory teaser" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-  **Fast Spatial Memory with Elastic Test-Time Training**
-
-  [Ziqiao Ma], [Xueyang Yu], **Haoyu Zhen**, [Yuncong Yang], [Joyce Chai], [Chuang Gan]
-
-  [arXiv](https://arxiv.org/abs/2604.07350)｜[Project](https://fast-spatial-memory.github.io/)｜[Code](https://github.com/Mars-tin/fast-spatial-mem)｜[Blog](https://mars-tin.github.io/blogs/posts/elastic_ttt.html)
-
-  [![GitHub Stars](https://img.shields.io/github/stars/Mars-tin/fast-spatial-mem?style=social)](https://github.com/Mars-tin/fast-spatial-mem/stargazers) [![](https://img.shields.io/github/forks/Mars-tin/fast-spatial-mem?style=social)](https://github.com/Mars-tin/fast-spatial-mem/forks?include=active%2Cinactive) <a href="https://huggingface.co/marstin/fast-spatial-mem"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Fast%20Spatial%20Memory-FFD21E?style=flat&labelColor=f6f6f6"></a>
 
   **arXiv 2026**
 
