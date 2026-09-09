@@ -11,7 +11,7 @@
 
   &zwj;<mark><span class="red">pip</span> install pyblend</mark>｜[PyPI](https://pypi.org/project/pyblend/)｜[**Github**](https://github.com/anyeZHY/PyBlend)｜[Gallery](gallery.html)｜[![](https://img.shields.io/github/stars/anyeZHY/PyBlend?style=social&label=Stars)](https://github.com/anyeZHY/PyBlend/stargazers)
 
-  PyBlend, a project I've passionately contributed to, is a Python library that provides a high-level interface for Blender scripting. It empowers artists and developers like me to effortlessly enhance Blender workflows with an array of dynamic functions.
+  A Python library that wraps Blender's API with a higher-level interface for scripting scenes, materials, and rendering.
   </div>
 </div>
 

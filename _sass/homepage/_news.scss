@@ -1,21 +1,46 @@
-// News section styles
-// Migrated from inline styles on the Archived News <details>/<summary>/<div>.
+.news-list {
+  ul {
+    list-style: none;
+    padding-left: 0;
+  }
+
+  li {
+    margin-bottom: 0.4em;
+  }
+
+  em:first-child {
+    font-style: normal;
+    font-variant-numeric: tabular-nums;
+    font-size: 0.88em;
+    letter-spacing: 0.02em;
+    color: $gray;
+  }
+}
 
 .news-archive {
-  border: 0px solid #e0e0e0;
-  border-radius: 0px;
-  margin-top: 0.1em;
+  border: 0;
+  margin-top: 0.4em;
 }
 
 .news-archive-summary {
-  padding: 0.2em;
+  padding: 0.2em 0;
   cursor: pointer;
-  font-weight: bold;
-  color: #333;
+  font-weight: 600;
+  color: $dark-gray;
 }
 
 .news-archive-body {
-  padding: 0.1em 0.75em 0.75em 0em;
-  border-top: 0px solid #e0e0e0;
+  padding: 0.1em 0 0.75em;
   margin-top: 0.5em;
+
+  ul {
+    list-style: none;
+    padding-left: 0;
+  }
+
+  em {
+    font-style: normal;
+    font-variant-numeric: tabular-nums;
+    color: $gray;
+  }
 }

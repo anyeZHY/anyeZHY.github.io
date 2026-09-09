@@ -1,4 +1,5 @@
 # News
+<div class="news-list" markdown="1">
 - *2026.06*: &nbsp;Two papers are accepted by [ECCV 2026](https://eccv.ecva.net/Conferences/2026).
 - *2026.06*: &nbsp;[UniCanvas](https://arxiv.org/abs/2606.04264) receives the <span class="red">Best Paper</span> at the A2A-MML Workshop, [CVPR 2026](https://cvpr.thecvf.com/Conferences/2026).
 - *2026.05*: &nbsp;Internship at [Meta] this summer, in Redmond, Washington.
@@ -11,6 +12,7 @@
 - *2024.04*: &nbsp;Invited talk "Building Embodied 3D Foundation Models" at [OpenDriveLab, Shanghai AI Lab](https://opendrivelab.com/) and [QingkeLab](https://qingkelab.github.io).
 - *2024.03*: &nbsp;[Introduce 3D-VLA](https://vis-www.cs.umass.edu/3dvla/), a 3D Vision-Language-Action Generative World Model
 - *2024.02*: &nbsp;Internship at [Meshy](https://www.meshy.ai/), in Beijing, China.
+</div>
 <details class="news-archive">
   <summary class="news-archive-summary">
     Archived News
