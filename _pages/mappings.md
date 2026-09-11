@@ -36,6 +36,10 @@
 [Yilin Zhao]: https://ermu2001.github.io/me.io/
 [Yuncong Yang]: https://yyuncong.github.io/
 [Zeyuan Yang]: https://miicheyang.github.io/
+[Zhengtao Han]: https://www.hanzht.com/
+[Furkan Özyurt]: https://www.linkedin.com/in/ozyurtf/
+[Han Yang]: https://hanyangclarence.github.io/
+[Junyi Cao]: https://xjay18.github.io/
 [Maohao Shen]: https://maohaos2.github.io/Maohao/
 [Hao-Wei Chen]: https://scholar.google.com/citations?user=cpOf3qMAAAAJ&hl
 [Xiaowen Qiu]: https://scholar.google.com/citations?user=kqif8UsAAAAJ&hl=en

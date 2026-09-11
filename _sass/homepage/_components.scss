@@ -36,7 +36,8 @@
         max-width: 100%;
         order: 1;
 
-        strong:first-child {
+        strong:first-child,
+        .paper-author-self {
           font-family: $header-font-family;
           font-weight: 600;
         }

@@ -10,11 +10,32 @@
   <div class='paper-box-text' markdown="1">
   **Action Images: End-to-End Policy Learning via Multiview Video Generation**
 
-  **Haoyu Zhen**, [Zixian Gao], [Qiao Sun], [Yilin Zhao], [Yuncong Yang], [Yilun Du], [Pengsheng Guo], [Tsun-Hsuan Wang], [Yi-Ling Qiao], [Chuang Gan]
+  <strong class="paper-author-self">Haoyu Zhen</strong>, [Zixian Gao], [Qiao Sun], [Yilin Zhao], [Yuncong Yang], [Yilun Du], [Pengsheng Guo], [Tsun-Hsuan Wang], [Yi-Ling Qiao], [Chuang Gan]
 
   [arXiv](https://arxiv.org/abs/2604.06168)｜[Project](https://actionimages.github.io/)｜[Code](https://github.com/UMass-Embodied-AGI/ActionImages)
 
   [![GitHub Stars](https://img.shields.io/github/stars/UMass-Embodied-AGI/ActionImages?style=social)](https://github.com/UMass-Embodied-AGI/ActionImages/stargazers) <a href="https://huggingface.co/anyeZHY/ActionImages"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Action%20Images-FFD21E?style=flat&labelColor=f6f6f6"></a>
+
+  **arXiv 2026**
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">arXiv 2026</div>
+      <img src='https://raw.githubusercontent.com/UMass-Embodied-AGI/SyncWorld/main/teaser.png' alt="SyncWorld teaser" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  **SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators**
+
+  [Yuncong Yang], [Zhengtao Han], [Furkan Özyurt], [Zeyuan Yang], [Han Yang], [Junyi Cao], <strong class="paper-author-self">Haoyu Zhen</strong>, [Yilun Du], [Chuang Gan]
+
+  [PDF](https://arxiv.org/pdf/2609.09155)｜[Project](https://umass-embodied-agi.github.io/SyncWorld/)｜[Code](https://github.com/UMass-Embodied-AGI/SyncWorld)
+
+  [![GitHub Stars](https://img.shields.io/github/stars/UMass-Embodied-AGI/SyncWorld?style=social)](https://github.com/UMass-Embodied-AGI/SyncWorld/stargazers)
 
   **arXiv 2026**
 
@@ -31,7 +52,7 @@
   <div class='paper-box-text' markdown="1">
   **3D-Layout-R1: Structured Reasoning for Language-Instructed Spatial Editing**
 
-  **Haoyu Zhen**, [Xiaolong Li], [Yilin Zhao], [Han Zhang], [Sifei Liu], [Kaichun Mo], [Chuang Gan], [Subhashree Radhakrishnan]
+  <strong class="paper-author-self">Haoyu Zhen</strong>, [Xiaolong Li], [Yilin Zhao], [Han Zhang], [Sifei Liu], [Kaichun Mo], [Chuang Gan], [Subhashree Radhakrishnan]
 
   [arXiv](https://arxiv.org/abs/2603.22279)
 
@@ -50,7 +71,7 @@
   <div class='paper-box-text' markdown="1">
   **Fast Spatial Memory with Elastic Test-Time Training**
 
-  [Ziqiao Ma], [Xueyang Yu], **Haoyu Zhen**, [Yuncong Yang], [Joyce Chai], [Chuang Gan]
+  [Ziqiao Ma], [Xueyang Yu], <strong class="paper-author-self">Haoyu Zhen</strong>, [Yuncong Yang], [Joyce Chai], [Chuang Gan]
 
   [arXiv](https://arxiv.org/abs/2604.07350)｜[Project](https://fast-spatial-memory.github.io/)｜[Code](https://github.com/Mars-tin/fast-spatial-mem)｜[Blog](https://mars-tin.github.io/blogs/posts/elastic_ttt.html)
 
@@ -71,7 +92,7 @@
   <div class='paper-box-text' markdown="1">
   **UniCanvas: A Diffusion-base Unified Model for Text-in-Image Joint Generation**
 
-  [Zeyuan Yang], [Hao-Wei Chen], [Xueyang Yu], [Yuncong Yang], **Haoyu Zhen**, [Ziqiao Ma], [Maohao Shen], [Chuang Gan]
+  [Zeyuan Yang], [Hao-Wei Chen], [Xueyang Yu], [Yuncong Yang], <strong class="paper-author-self">Haoyu Zhen</strong>, [Ziqiao Ma], [Maohao Shen], [Chuang Gan]
 
   [arXiv](https://arxiv.org/abs/2606.04264)
 
@@ -92,7 +113,7 @@
   <div class='paper-box-text' markdown="1">
   **GHOST: Hierarchical Sub-Goal Policies for Generalizing Robot Manipulation**
 
-  [Sriram Krishna], [Ben Eisner], [Haotian Zhan], [Ying Yuan], **Haoyu Zhen**, [Chuang Gan], [Shubham Tulsiani], [David Held]
+  [Sriram Krishna], [Ben Eisner], [Haotian Zhan], [Ying Yuan], <strong class="paper-author-self">Haoyu Zhen</strong>, [Chuang Gan], [Shubham Tulsiani], [David Held]
 
   [PDF](https://ghost-human-demo.github.io/ghost.pdf)｜[Project](https://ghost-human-demo.github.io/)｜[Code](https://github.com/r-pad/lfd3d)
 
@@ -113,7 +134,7 @@
   <div class='paper-box-text' markdown="1">
   **TesserAct: Learning 4D Embodied World Models**
 
-  **Haoyu Zhen**, [Qiao Sun], [Hongxin Zhang], [Junyan Li], [Siyuan Zhou], [Yilun Du], [Chuang Gan]
+  <strong class="paper-author-self">Haoyu Zhen</strong>, [Qiao Sun], [Hongxin Zhang], [Junyan Li], [Siyuan Zhou], [Yilun Du], [Chuang Gan]
 
   [arXiv](https://arxiv.org/abs/2504.20995)｜[Project](https://tesseractworld.github.io/)｜[Code](https://github.com/UMass-Embodied-AGI/TesserAct)｜[Twitter]()
 
@@ -134,7 +155,7 @@
   <div class='paper-box-text' markdown="1">
   **RapVerse: Coherent Vocals and Whole-Body Motions Generations from Text**
 
-  [Jiaben Chen], [Xin Yan], [Yihang Chen](), [Siyuan Cen](), [Qinwei Ma](), **Haoyu Zhen**, [Kaizhi Qian], [Lie Lu], [Chuang Gan]
+  [Jiaben Chen], [Xin Yan], [Yihang Chen](), [Siyuan Cen](), [Qinwei Ma](), <strong class="paper-author-self">Haoyu Zhen</strong>, [Kaizhi Qian], [Lie Lu], [Chuang Gan]
 
   [arXiv](https://arxiv.org/abs/2405.20336v1)｜[Project](https://vis-www.cs.umass.edu/RapVerse/)｜[Code](https://github.com/UMass-Foundation-Model/RapVerse)
 
@@ -156,7 +177,7 @@
   <div class='paper-box-text' markdown="1">
   **3D-VLA: 3D Vision-Language-Action Generative World Model**
 
-  **Haoyu Zhen**, [Xiaowen Qiu], [Peihao Chen], [Jincheng Yang], [Xin Yan], [Yilun Du], [Yining Hong], [Chuang Gan]
+  <strong class="paper-author-self">Haoyu Zhen</strong>, [Xiaowen Qiu], [Peihao Chen], [Jincheng Yang], [Xin Yan], [Yilun Du], [Yining Hong], [Chuang Gan]
 
   [arXiv](https://arxiv.org/abs/2403.09631)｜[Project](https://vis-www.cs.umass.edu/3dvla/)｜[Code](https://github.com/UMass-Foundation-Model/3D-VLA)｜[Twitter](https://x.com/gan_chuang/status/1768715113794506843)
 
@@ -179,7 +200,7 @@
   <div class='paper-box-text' markdown="1">
   **3D-LLM: Injecting the 3D World into Large Language Models**
 
-  [Yining Hong], **Haoyu Zhen**, [Peihao Chen], [Shuhong Zheng], [Yilun Du], [Zhenfang Chen], [Chuang Gan]
+  [Yining Hong], <strong class="paper-author-self">Haoyu Zhen</strong>, [Peihao Chen], [Shuhong Zheng], [Yilun Du], [Zhenfang Chen], [Chuang Gan]
 
   [arXiv](https://arxiv.org/abs/2307.12981)｜[Project](https://vis-www.cs.umass.edu/3dllm/)｜[Code](https://github.com/UMass-Foundation-Model/3D-LLM)｜[Twitter](https://x.com/_akhaliq/status/1683704549817868288)
 
@@ -200,7 +221,7 @@
   <div class='paper-box-text' markdown="1">
   **Relative Entropic Optimal Transport: a (Prior-aware) Matching Perspective to (Unbalanced) Classification.**
 
-  [Liangliang Shi], **Haoyu Zhen**, [Gu Zhang], [Junchi Yan]
+  [Liangliang Shi], <strong class="paper-author-self">Haoyu Zhen</strong>, [Gu Zhang], [Junchi Yan]
 
   **NeurIPS 2023**
   </div>
@@ -218,7 +239,7 @@
   <div class='paper-box-text' markdown="1">
   **Color-NeuS: Reconstructing Neural Implicit Surfaces with Color**
 
-  [Licheng Zhong], [Lixin Yang], [Kailin Li], **Haoyu Zhen**, [Mei Han], [Cewu Lu]
+  [Licheng Zhong], [Lixin Yang], [Kailin Li], <strong class="paper-author-self">Haoyu Zhen</strong>, [Mei Han], [Cewu Lu]
 
   [arXiv](https://arxiv.org/abs/2308.06962)｜[Project](https://colmar-zlicheng.github.io/color_neus/)｜[Code](https://github.com/Colmar-zlicheng/Color-NeuS)｜[Data](https://drive.google.com/drive/folders/1C6vcRiy_MFMtsaR8AydRAPrLIkok-tJm)
 
@@ -238,7 +259,7 @@
   <div class='paper-box-text' markdown="1">
   **CHORD: Category-level in-Hand Object Reconstruction via Shape Deformation**
 
-  [Kailin Li], [Lixin Yang], **Haoyu Zhen**, [Zenan Lin](), [Xinyu Zhan], [Licheng Zhong], [Jian Xu], [Kejian Wu], [Cewu Lu]
+  [Kailin Li], [Lixin Yang], <strong class="paper-author-self">Haoyu Zhen</strong>, [Zenan Lin](), [Xinyu Zhan], [Licheng Zhong], [Jian Xu], [Kejian Wu], [Cewu Lu]
 
   [arXiv](https://arxiv.org/abs/2308.10574)｜[Project](https://kailinli.github.io/CHORD/)
 
@@ -256,7 +277,7 @@
   <div class='paper-box-text' markdown="1">
   **Understanding and Generalizing Contrastive Learning from the Inverse Optimal Transport Perspective**
 
-  [Liangliang Shi], [Gu Zhang], **Haoyu Zhen**, Jintao Fan, [Junchi Yan]
+  [Liangliang Shi], [Gu Zhang], <strong class="paper-author-self">Haoyu Zhen</strong>, Jintao Fan, [Junchi Yan]
 
   [OpenReview](https://openreview.net/forum?id=DBlWCsOy94)｜[Slides](pdf/iot-cl.pdf)
 
