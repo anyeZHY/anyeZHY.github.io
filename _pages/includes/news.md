@@ -1,5 +1,6 @@
 # News
 <div class="news-list" markdown="1">
+- *2026.09*: &nbsp;Two papers are accepted by [NeurIPS 2026](https://nips.cc/Conferences/2026).
 - *2026.06*: &nbsp;Two papers are accepted by [ECCV 2026](https://eccv.ecva.net/Conferences/2026).
 - *2026.06*: &nbsp;[UniCanvas](https://arxiv.org/abs/2606.04264) receives the <span class="red">Best Paper</span> at the A2A-MML Workshop, [CVPR 2026](https://cvpr.thecvf.com/Conferences/2026).
 - *2026.05*: &nbsp;Internship at [Meta] this summer, in Redmond, Washington.

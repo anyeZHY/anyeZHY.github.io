@@ -3,7 +3,7 @@
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">arXiv 2026</div>
+      <div class="badge">NeurIPS 2026</div>
       <img src='https://actionimages.github.io/assets/teaser.png' alt="Action Images teaser" width="100%">
     </div>
   </div>
@@ -16,7 +16,7 @@
 
   [![GitHub Stars](https://img.shields.io/github/stars/UMass-Embodied-AGI/ActionImages?style=social)](https://github.com/UMass-Embodied-AGI/ActionImages/stargazers) <a href="https://huggingface.co/anyeZHY/ActionImages"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Action%20Images-FFD21E?style=flat&labelColor=f6f6f6"></a>
 
-  **arXiv 2026**
+  **NeurIPS 2026**
 
   </div>
 </div>
@@ -24,7 +24,7 @@
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">arXiv 2026</div>
+      <div class="badge">NeurIPS 2026</div>
       <img src='https://raw.githubusercontent.com/UMass-Embodied-AGI/SyncWorld/main/teaser.png' alt="SyncWorld teaser" width="100%">
     </div>
   </div>
@@ -37,7 +37,7 @@
 
   [![GitHub Stars](https://img.shields.io/github/stars/UMass-Embodied-AGI/SyncWorld?style=social)](https://github.com/UMass-Embodied-AGI/SyncWorld/stargazers)
 
-  **arXiv 2026**
+  <b><hover-mark>NeurIPS 2026 <span class="red">(Oral)</span></hover-mark></b>
 
   </div>
 </div>
